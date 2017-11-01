@@ -1,0 +1,2802 @@
+{
+    "path": "http://www.google.com",
+    "children": [
+        {
+            "path": "https://www.google.co.il/webhp?tab=ww",
+            "children": [
+                {
+                    "path": "https://www.google.co.il/webhp?tab=ww",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/imghp?hl=iw&tab=wi",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/?gl=IL&tab=w1",
+                    "children": []
+                },
+                {
+                    "path": "https://news.google.co.il/nwshp?hl=iw&tab=wn",
+                    "children": []
+                },
+                {
+                    "path": "https://mail.google.com/mail/?tab=wm",
+                    "children": []
+                },
+                {
+                    "path": "https://drive.google.com/?tab=wo",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/calendar?tab=wc",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "https://translate.google.co.il/?hl=iw&tab=wT",
+                    "children": []
+                },
+                {
+                    "path": "https://www.blogger.com/?tab=wj",
+                    "children": []
+                },
+                {
+                    "path": "https://photos.google.com/?tab=wq&pageId=none",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.co.il/webhp%3Ftab%3Dww",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/preferences?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/intl/iw/services/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/setprefdomain?prefdom=US&sig=__LCH323xvLriWkMS1RlBLsjblp90%3D",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "http://www.google.co.il/imghp?hl=iw&tab=wi",
+            "children": [
+                {
+                    "path": "https://www.google.co.il/webhp?tab=iw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/imghp?hl=iw&tab=ii",
+                    "children": []
+                },
+                {
+                    "path": "http://www.youtube.com/?gl=IL&tab=i1",
+                    "children": []
+                },
+                {
+                    "path": "https://mail.google.com/mail/?tab=im",
+                    "children": []
+                },
+                {
+                    "path": "https://drive.google.com/?tab=io",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/calendar?tab=ic",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "http://translate.google.co.il/?hl=iw&tab=iT",
+                    "children": []
+                },
+                {
+                    "path": "https://photos.google.com/?tab=iq&pageId=none",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=http://www.google.co.il/imghp%3Fhl%3Diw%26tab%3Dwi",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/preferences?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/history/optout?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/intl/iw/services/",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "http://maps.google.co.il/maps?hl=iw&tab=wl",
+            "children": []
+        },
+        {
+            "path": "http://www.youtube.com/?gl=IL&tab=w1",
+            "children": [
+                {
+                    "path": "https://accounts.google.com/ServiceLogin?uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252F%253Fgl%253DIL%2526tab%253Dw1%26app%3Ddesktop%26feature%3Dsign_in_promo%26hl%3Den&passive=true&service=youtube&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://plus.google.com/+youtube",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/intl/en/policies/privacy/",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/ServiceLogin?uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252F%253Fgl%253DIL%2526tab%253Dw1%26app%3Ddesktop%26feature%3Dplaylist%26hl%3Den&passive=true&service=youtube&hl=en",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "http://news.google.co.il/nwshp?hl=iw&tab=wn",
+            "children": [
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "https://myaccount.google.com/?utm_source=OGB&utm_medium=app",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/webhp?tab=nw",
+                    "children": []
+                },
+                {
+                    "path": "https://maps.google.co.il/maps?hl=iw&tab=nl",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/?gl=IL&tab=n1",
+                    "children": []
+                },
+                {
+                    "path": "https://news.google.co.il/nwshp?hl=iw&tab=nn",
+                    "children": []
+                },
+                {
+                    "path": "https://mail.google.com/mail/?tab=nm",
+                    "children": []
+                },
+                {
+                    "path": "https://drive.google.com/?tab=no",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/calendar?tab=nc",
+                    "children": []
+                },
+                {
+                    "path": "https://translate.google.co.il/?hl=iw&tab=nT",
+                    "children": []
+                },
+                {
+                    "path": "https://photos.google.com/?tab=nq&pageId=none",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/document/?usp=docs_alc",
+                    "children": []
+                },
+                {
+                    "path": "https://www.blogger.com/?tab=nj",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/contacts/?hl=iw&tab=nC",
+                    "children": []
+                },
+                {
+                    "path": "https://hangouts.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://keep.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://news.google.com/news/headlines?hl%3Diw%26ned%3Diw_il&followup=https://news.google.com/news/headlines?hl%3Diw%26ned%3Diw_il&hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/news",
+                    "children": []
+                },
+                {
+                    "path": "https://news.walla.co.il/item/3108101",
+                    "children": []
+                },
+                {
+                    "path": "https://news.walla.co.il/item/3108101",
+                    "children": []
+                },
+                {
+                    "path": "http://www.kikar.co.il/254625.html",
+                    "children": []
+                },
+                {
+                    "path": "https://news.walla.co.il/item/3108128",
+                    "children": []
+                },
+                {
+                    "path": "https://news.walla.co.il/item/3108128",
+                    "children": []
+                },
+                {
+                    "path": "http://www.kikar.co.il/254659.html",
+                    "children": []
+                },
+                {
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271882",
+                    "children": []
+                },
+                {
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271882",
+                    "children": []
+                },
+                {
+                    "path": "https://news.walla.co.il/item/3108048",
+                    "children": []
+                },
+                {
+                    "path": "https://www.haaretz.co.il/news/politi/1.4564045",
+                    "children": []
+                },
+                {
+                    "path": "https://www.haaretz.co.il/news/politi/1.4564045",
+                    "children": []
+                },
+                {
+                    "path": "http://www.maariv.co.il/news/israel/Article-605947",
+                    "children": []
+                },
+                {
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271827",
+                    "children": []
+                },
+                {
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271827",
+                    "children": []
+                },
+                {
+                    "path": "http://www.nrg.co.il/online/1/ART2/900/558.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036611,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036611,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271881",
+                    "children": []
+                },
+                {
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036947,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036947,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.davar1.co.il/92266/",
+                    "children": []
+                },
+                {
+                    "path": "http://www.davar1.co.il/92266/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.20il.co.il/%D7%9B%D7%AA%D7%91%D7%94-%D7%97%D7%9B-%D7%9B%D7%AA%D7%91%D7%94-%D7%92%D7%99%D7%9C%D7%90%D7%95%D7%9F-%D7%A7%D7%A6%D7%91%D7%AA-%D7%94%D7%A0%D7%9B%D7%95%D7%AAjj-%D7%9C%D7%90-%D7%AA%D7%A2%D7%9C%D7%94/",
+                    "children": []
+                },
+                {
+                    "path": "http://www.mako.co.il/news-law/crime-q4_2017/Article-11af4b27a467f51004.htm",
+                    "children": []
+                },
+                {
+                    "path": "http://www.mako.co.il/news-law/crime-q4_2017/Article-11af4b27a467f51004.htm",
+                    "children": []
+                },
+                {
+                    "path": "http://www.nrg.co.il/online/1/ART2/900/609.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.themarker.com/law/1.4563865",
+                    "children": []
+                },
+                {
+                    "path": "https://www.themarker.com/law/1.4563865",
+                    "children": []
+                },
+                {
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036417,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.nrg.co.il/online/1/ART2/900/595.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.nrg.co.il/online/1/ART2/900/595.html",
+                    "children": []
+                },
+                {
+                    "path": "https://news.walla.co.il/item/3107963",
+                    "children": []
+                },
+                {
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036637,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036637,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271870",
+                    "children": []
+                },
+                {
+                    "path": "http://www.news1.co.il/BringHtmlDoc.aspx?docid=396248&subjectId=1",
+                    "children": []
+                },
+                {
+                    "path": "http://www.news1.co.il/BringHtmlDoc.aspx?docid=396248&subjectId=1",
+                    "children": []
+                },
+                {
+                    "path": "http://www.israelhayom.co.il/article/512791",
+                    "children": []
+                },
+                {
+                    "path": "http://www.israelhayom.co.il/article/512791",
+                    "children": []
+                },
+                {
+                    "path": "https://www.haaretz.co.il/news/world/europe/1.4554703",
+                    "children": []
+                },
+                {
+                    "path": "https://www.calcalist.co.il/markets/articles/0,7340,L-3724033,00.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.calcalist.co.il/markets/articles/0,7340,L-3724033,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.bizportal.co.il/wallstreet/news/article/641560",
+                    "children": []
+                },
+                {
+                    "path": "http://www.srugim.co.il/220508-%D7%9E%D7%A0%D7%9B%D7%9C-%D7%92%D7%95%D7%92%D7%9C-%D7%94%D7%AA%D7%A2%D7%A8%D7%91-%D7%91%D7%95%D7%95%D7%99%D7%9B%D7%95%D7%97-%D7%94%D7%9B%D7%99-%D7%9E%D7%92%D7%95%D7%97%D7%9A-%D7%91%D7%A8%D7%A9%D7%AA",
+                    "children": []
+                },
+                {
+                    "path": "http://www.srugim.co.il/220508-%D7%9E%D7%A0%D7%9B%D7%9C-%D7%92%D7%95%D7%92%D7%9C-%D7%94%D7%AA%D7%A2%D7%A8%D7%91-%D7%91%D7%95%D7%95%D7%99%D7%9B%D7%95%D7%97-%D7%94%D7%9B%D7%99-%D7%9E%D7%92%D7%95%D7%97%D7%9A-%D7%91%D7%A8%D7%A9%D7%AA",
+                    "children": []
+                },
+                {
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036379,00.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.calcalist.co.il/local/articles/0,7340,L-3724032,00.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.calcalist.co.il/local/articles/0,7340,L-3724032,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.pc.co.il/it-news/252031/",
+                    "children": []
+                },
+                {
+                    "path": "http://www.pc.co.il/it-news/252031/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.themarker.com/technation/1.4552786",
+                    "children": []
+                },
+                {
+                    "path": "https://tech.walla.co.il/item/3107197",
+                    "children": []
+                },
+                {
+                    "path": "https://tech.walla.co.il/item/3107197",
+                    "children": []
+                },
+                {
+                    "path": "https://www.themarker.com/technation/1.4550107",
+                    "children": []
+                },
+                {
+                    "path": "http://www.yedatech.co.il/yt/news.jhtml?value=25471",
+                    "children": []
+                },
+                {
+                    "path": "http://www.yedatech.co.il/yt/news.jhtml?value=25471",
+                    "children": []
+                },
+                {
+                    "path": "https://g-rafa.co.il/%D7%97%D7%91%D7%A8%D7%AA-brother-%D7%9E%D7%A9%D7%99%D7%A7%D7%94-%D7%A1%D7%93%D7%A8%D7%AA-%D7%9E%D7%93%D7%A4%D7%A1%D7%95%D7%AA-%D7%9C%D7%99%D7%99%D7%96%D7%A8-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%95/",
+                    "children": []
+                },
+                {
+                    "path": "http://www.pc.co.il/thenewcom/252156/",
+                    "children": []
+                },
+                {
+                    "path": "http://www.pc.co.il/thenewcom/252156/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.geektime.co.il/apple-fires-engineer-iphone-x/",
+                    "children": []
+                },
+                {
+                    "path": "https://tech.walla.co.il/item/3107579",
+                    "children": []
+                },
+                {
+                    "path": "http://www.nrg.co.il/online/11/ART2/900/518.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.nrg.co.il/online/11/ART2/900/518.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.ynet.co.il/articles/0,7340,L-5036432,00.html",
+                    "children": []
+                },
+                {
+                    "path": "https://e.walla.co.il/item/3108139",
+                    "children": []
+                },
+                {
+                    "path": "https://e.walla.co.il/item/3108139",
+                    "children": []
+                },
+                {
+                    "path": "http://www.mako.co.il/tv/Article-5f4b04b83537f51006.htm",
+                    "children": []
+                },
+                {
+                    "path": "https://www.calcalist.co.il/marketing/articles/0,7340,L-3724023,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036757,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036757,00.html",
+                    "children": []
+                },
+                {
+                    "path": "https://e.walla.co.il/item/3108065",
+                    "children": []
+                },
+                {
+                    "path": "https://e.walla.co.il/item/3107584",
+                    "children": []
+                },
+                {
+                    "path": "https://e.walla.co.il/item/3107584",
+                    "children": []
+                },
+                {
+                    "path": "http://bidur.nana10.co.il/Article/?ArticleID=1271662",
+                    "children": []
+                },
+                {
+                    "path": "https://www.calcalist.co.il/local/articles/0,7340,L-3724007,00.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.calcalist.co.il/local/articles/0,7340,L-3724007,00.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.one.co.il/Article/17-18/1,1,4,0/300883.html?ref=hp",
+                    "children": []
+                },
+                {
+                    "path": "http://www.one.co.il/Article/17-18/1,1,4,0/300883.html?ref=hp",
+                    "children": []
+                },
+                {
+                    "path": "http://www.one.co.il/Article/17-18/3,14,51,0/300882.html?ref=hp",
+                    "children": []
+                },
+                {
+                    "path": "http://www.one.co.il/Article/17-18/3,14,51,0/300882.html?ref=hp",
+                    "children": []
+                },
+                {
+                    "path": "http://www.sport5.co.il/articles.aspx?FolderID=398&docID=256157&lang=HE",
+                    "children": []
+                },
+                {
+                    "path": "http://www.nrg.co.il/online/3/ART2/900/649.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.nrg.co.il/online/3/ART2/900/649.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.israelhayom.co.il/article/512835",
+                    "children": []
+                },
+                {
+                    "path": "http://www.one.co.il/Article/17-18/1,2,5,0/300879.html?ref=rss",
+                    "children": []
+                },
+                {
+                    "path": "http://www.one.co.il/Article/17-18/1,2,5,0/300879.html?ref=rss",
+                    "children": []
+                },
+                {
+                    "path": "http://www.kikar.co.il/254626.html",
+                    "children": []
+                },
+                {
+                    "path": "http://www.kikar.co.il/254626.html",
+                    "children": []
+                },
+                {
+                    "path": "https://healthy.walla.co.il/item/3106717",
+                    "children": []
+                },
+                {
+                    "path": "https://healthy.walla.co.il/item/3106717",
+                    "children": []
+                },
+                {
+                    "path": "http://www.mako.co.il/news-israel/health-q4_2017/Article-3a9fcc60ef57f51004.htm",
+                    "children": []
+                },
+                {
+                    "path": "http://www.mako.co.il/news-israel/health-q4_2017/Article-3a9fcc60ef57f51004.htm",
+                    "children": []
+                },
+                {
+                    "path": "http://israelnow.co.il/%D7%A1%D7%A4%D7%95%D7%A8%D7%98/%D7%99%D7%99%D7%A6%D7%95%D7%92-%D7%9E%D7%9B%D7%95%D7%91%D7%93-%D7%9C%D7%9C%D7%A0%D7%99%D7%90%D7%93%D7%95-%D7%91%D7%9B%D7%99%D7%A0%D7%95%D7%A1-%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%9C/",
+                    "children": []
+                },
+                {
+                    "path": "http://www.weather.com/wx/today/?lat=32.09&lon=34.78&locale=he&par=google",
+                    "children": []
+                },
+                {
+                    "path": "http://www.mouse.co.il/art/articles/1.4498638",
+                    "children": []
+                },
+                {
+                    "path": "https://www.haaretz.co.il/blogs/veredlee/1.4553020",
+                    "children": []
+                },
+                {
+                    "path": "https://timeout.co.il/%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99/%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91-%D7%97%D7%93%D7%A9%D7%95%D7%AA-%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA/%D7%90%D7%99%D7%9A-%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9%D7%99%D7%9D-%D7%91%D7%98%D7%9C%D7%92%D7%A8%D7%90%D7%A1",
+                    "children": []
+                },
+                {
+                    "path": "https://news.google.com/news/rss/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/news?p=editions&hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/news?p=aboutNews&hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/news?p=aboutFeeds&hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/news/?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/intl/iw_il/policies/privacy/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/intl/iw_il/policies/terms/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/intl/iw_il/ads/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/intl/iw_il/services/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/intl/iw_il/about/",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "https://mail.google.com/mail/?tab=wm",
+            "children": [
+                {
+                    "path": "https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&service=mail&scc=1&rm=false&osid=1&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&service=mail&rm=false&ltmpl=default&scc=1&osid=1&emr=1",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&ltmpl=default",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/intl/en/about",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/TOS?loc=IL&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.com/support/accounts?hl=en",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "https://drive.google.com/?tab=wo",
+            "children": [
+                {
+                    "path": "https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fdrive.google.com%2F%3Ftab%3Dwo&service=wise&osid=1&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fdrive.google.com%2F%3Ftab%3Dwo&followup=https%3A%2F%2Fdrive.google.com%2F%3Ftab%3Dwo&service=wise&osid=1&emr=1",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/SignUp?service=wise&continue=https%3A%2F%2Fdrive.google.com%2F%3Ftab%3Dwo",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/intl/en/about",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/TOS?loc=IL&hl=en&privacy=true",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/TOS?loc=IL&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.com/support/accounts?hl=en",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "https://www.google.com/calendar?tab=wc",
+            "children": [
+                {
+                    "path": "https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender%3Ftab%3Dwc&followup=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender%3Ftab%3Dwc&service=cl&scc=1&osid=1",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/SignUp?service=cl&continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender%3Ftab%3Dwc",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/TOS?loc=IL&hl=en&privacy=true",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "https://www.google.co.il/intl/iw/options/",
+            "children": [
+                {
+                    "path": "https://www.google.com/search/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-search/id284815942?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/websearch?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/maps/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/maps",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-maps/id585027354?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-maps/lneaknkopdijkpnocmklfnjbeapigfbh",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/maps?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://translate.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-translate/id414706506?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/translate?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/chrome/browser/",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/chrome-web-browser-by-google/id535886823?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.android.chrome",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/chrome?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/yt/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/youtube/id544007664?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.youtube",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/youtube?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/music?signup=1",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-play-music/id691797987?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.music",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-play-music/icppfcnhkcmnfdhfhphakoifcfokfdhg",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/googleplay/answer/4515411?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://chromecast.com",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/magazine/google_cast_platform_story",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/googleplay/answer/4512465",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/movies",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-play-movies-tv/id746894884?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.videos",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-play-movies-tv/gdijeikdkaembjbdobgfkoidjkpbmlkd?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/googleplay/topic/2999726?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/product/pixel_2",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/config/pixel_2",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/product/pixel_2_learn?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/us/category/home_entertainment",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/googlehome?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/product/google_daydream_view",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/config/google_daydream_view",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/daydream?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://madeby.google.com/wifi/",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/product/google_wifi",
+                    "children": []
+                },
+                {
+                    "path": "https://madeby.google.com/wifi/?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/phones/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/android?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/wear/",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/category/android_wear",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/androidwear/topic/6056405?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/chromebook/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/category/chromebooks",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/chromebook/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/chromebook?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/intl/en_us/auto/",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/androidauto/?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.gmail.com/intl/en_us/mail/help/about.html",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/gmail-email-from-google/id422689480?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/gmail-offline/ejidjjhkpiempkbhmpbfngldlkglhimk",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/mail?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://allo.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.fireball&referrer=utm_source%3DaboutSiteGoogle%26utm_medium%3DGoogle_referral%26anid%3Dadmob",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/allo#topic=6376118?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://duo.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon&referrer=utm_source%3DaboutSiteGoogle",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/duo#topic=6376099?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google+/id447119634?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.plus",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google%2B/dlppkpafhbajpcmmoheippocdidnckmm",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/plus?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/photos/about",
+                    "children": []
+                },
+                {
+                    "path": "https://photos.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-photos-store-search/int/id962194608?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Dgoogleabout%26utm_medium%3Dweb",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.contacts",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/contacts/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/calendar/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/calendar",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-calendar/id909319292?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.calendar",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-calendar/ejjicmeblgpmajnghnpcppodonldlgfn",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/calendar?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/keep/",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.keep&utm_source=gaboutpage&utm_medium=keepplaylink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/keep?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/document/?usp=gabout_docs",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/apple-store/id842842640?pt=9008&ct=gabout_docs&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&utm_source=gaboutpage&utm_medium=docsplaylink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/docs?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/sheets/about/?utm_source=gaboutpage&utm_medium=sheetslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/spreadsheets/?usp=gabout_sheets",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-sheets/felcaaldnbdncclmgdcncolpebgiejap",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/docs/topic/2811806?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/slides/about/?utm_source=gaboutpage&utm_medium=slideslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/presentation/?usp=gabout_slides",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&utm_source=gaboutpage&utm_medium=slidesplaylink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-slides/aapocclcgogkmnckokdopfmhonfmgoek",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/docs/topic/2811776?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/drive/",
+                    "children": []
+                },
+                {
+                    "path": "https://drive.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-drive-free-online-storage/id507874739?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/drive/download/",
+                    "children": []
+                },
+                {
+                    "path": "https://adwords.google.com/um/StartNow?subid=ww-ww-et-g-aw-a-about_products_2-redlmo2!",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/apple-store/id1037457231?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/adwords/?utm_source=products&amp;utm_medium=et&amp;utm_campaign=en-us&amp;sourceid=awo&amp;subid=us-en-et-about-products-red-hc&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/adsense/start/?utm_source=internal&utm_medium=et&utm_campaign=app_switcher_ev_mr&utm_content=learn_more",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/adsense?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/analytics",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.giant",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/analytics?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/business/?gmbsrc=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&ppsrc=GMBB0&utm_campaign=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&utm_source=gmb&utm_medium=et",
+                    "children": []
+                },
+                {
+                    "path": "https://business.google.com/add?service=plus&gmbsrc=ww-ww-et-gs-z-gmb-s-z-l~pro-getstart-u&ppsrc=GMBB0&utm_campaign=ww-ww-et-gs-z-gmb-s-z-l~pro-getstart-u&utm_source=gmb&utm_medium=et",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/apple-store/id853371601?pt=9008&ct=googabout&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.vega&referrer=utm_source%3Dgmb%26utm_medium%3Det%26utm_campaign%3Dgoogabout",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/business?utm_source=products&amp;utm_medium=et&amp;utm_campaign=en-us&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/intl/en_us/auto/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/intl/en_us/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/intl/en_us/one/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/intl/en_us/pay/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/tablets/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/wear/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/calendar/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/get/cardboard/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/chrome/browser/",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/category/apps",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/chromebook/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/product/google_daydream_view",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/drive/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/earth/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/forms/about/?utm_source=gaboutpage&utm_medium=formslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/gboard-search.-gifs.-emojis/id1091700242?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://www.gmail.com/intl/en_us/mail/help/about.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/alerts",
+                    "children": []
+                },
+                {
+                    "path": "https://allo.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/cast/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/cloudprint/learn/index.html",
+                    "children": []
+                },
+                {
+                    "path": "https://duo.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/flights",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/us/category/home_entertainment",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/googleplay/answer/4512465",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/music?signup=1",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/newsstand?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://madeby.google.com/wifi/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/+/learnmore/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/hangouts/answer/2944865",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/inbox/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/keep/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/maps/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://news.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/product/pixel_2",
+                    "children": []
+                },
+                {
+                    "path": "https://scholar.google.com/intl/en-US/scholar/about.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/search/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/sheets/about/?utm_source=gaboutpage&utm_medium=sheetslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/slides/about/?utm_source=gaboutpage&utm_medium=slideslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://gmailblog.blogspot.com/2015/03/smartbox-by-inbox-mailbox-of-tomorrow.html",
+                    "children": []
+                },
+                {
+                    "path": "https://get.google.com/tango/?utm_source=en-ha-na-sem&utm_medium=text&utm_term=Consumer-Exact&utm_content=bkws&utm_campaign=Tangoconsumer",
+                    "children": []
+                },
+                {
+                    "path": "https://www.tiltbrush.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://translate.google.com/about",
+                    "children": []
+                },
+                {
+                    "path": "https://get.google.com/trips/",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.waze.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/yt/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://gaming.youtube.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://youtube-global.blogspot.com/2015/02/youtube-kids.html",
+                    "children": []
+                },
+                {
+                    "path": "https://tv.youtube.com/?utm_source=gaboutpage&utm_medium=youtubetv&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/adsense/start/?utm_source=internal&utm_medium=et&utm_campaign=app_switcher_ev_mr&utm_content=learn_more",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/adwords/express/?subid=ww-ww-et-g-aw-a-about_products_4-redlmo2!&_ga=1.175583202.1324762552.1468947456",
+                    "children": []
+                },
+                {
+                    "path": "https://enterprise.google.com/android/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.blogger.com/features",
+                    "children": []
+                },
+                {
+                    "path": "https://cloud.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://domains.google.com/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://enterprise.google.com/search/",
+                    "children": []
+                },
+                {
+                    "path": "https://enterprise.google.com/maps/products/mapsapi.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/retail/merchant-center/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/business/?gmbsrc=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&ppsrc=GMBB0&utm_campaign=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&utm_source=gmb&utm_medium=et",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/retail/shopping-campaigns/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/streetview/earn/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/retail/local-inventory-ads/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/webmasters/tools/home?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://developers.google.com/products/?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://plus.google.com/+google",
+                    "children": []
+                },
+                {
+                    "path": "https://abc.xyz/investor/",
+                    "children": []
+                },
+                {
+                    "path": "https://careers.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.blog.google/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.blog.google/press/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.org",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.org/our-work/crisis-response/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/diversity/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/accessibility/",
+                    "children": []
+                },
+                {
+                    "path": "https://transparencyreport.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com?hl=en",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "http://translate.google.co.il/?hl=iw&tab=wT",
+            "children": [
+                {
+                    "path": "https://www.google.co.il/webhp?tab=Tw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/imghp?hl=iw&tab=Ti",
+                    "children": []
+                },
+                {
+                    "path": "https://maps.google.co.il/maps?hl=iw&tab=Tl",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/?gl=IL&tab=T1",
+                    "children": []
+                },
+                {
+                    "path": "https://mail.google.com/mail/?tab=Tm",
+                    "children": []
+                },
+                {
+                    "path": "https://drive.google.com/?tab=To",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/calendar?tab=Tc",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "https://translate.google.co.il/?hl=iw&tab=TT",
+                    "children": []
+                },
+                {
+                    "path": "https://www.blogger.com/?tab=Tj",
+                    "children": []
+                },
+                {
+                    "path": "https://photos.google.com/?tab=Tq&pageId=none",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/document/?usp=docs_alc",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://translate.google.co.il/%3Fhl%3Diw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/preferences?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.com/support/translate/#googtrans/en/iw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/url?rs=rsmf&q=http://translate.google.com/manager/website/%3Fhl%3Diw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/url?rs=rssf&q=http://translate.google.co.il/about/intl/iw_ALL/",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/url?rs=rssf&q=//translate.google.com/community",
+                    "children": []
+                },
+                {
+                    "path": "https://google.com/+GoogleTranslate",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/url?rs=rssf&q=//www.google.com/about",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/url?rs=rssf&q=http://www.google.co.il/intl/iw/policies/",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/url?rs=rssf&q=https://www.google.com/support/translate/%3Fhl%3Diw",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "http://www.blogger.com/?tab=wj",
+            "children": []
+        },
+        {
+            "path": "https://photos.google.com/?tab=wq&pageId=none",
+            "children": [
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Daboutpage",
+                    "children": []
+                },
+                {
+                    "path": "http://itunes.apple.com/app/apple-store/id962194608?pt=9008&ct=landing&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://photos.google.com/login",
+                    "children": []
+                },
+                {
+                    "path": "https://photos.google.com/login",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Daboutpage",
+                    "children": []
+                },
+                {
+                    "path": "http://itunes.apple.com/app/apple-store/id962194608?pt=9008&ct=landing&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Daboutpage",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Daboutpage",
+                    "children": []
+                },
+                {
+                    "path": "http://itunes.apple.com/app/apple-store/id962194608?pt=9008&ct=landing&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://plus.google.com/+GooglePhotos/posts",
+                    "children": []
+                },
+                {
+                    "path": "https://twitter.com/googlephotos",
+                    "children": []
+                },
+                {
+                    "path": "http://itunes.apple.com/app/apple-store/id962194608?pt=9008&ct=landing&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Daboutpage",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "https://docs.google.com/document/?usp=docs_alc",
+            "children": [
+                {
+                    "path": "https://support.google.com/docs?hl=en&p=#topic=2811805",
+                    "children": []
+                },
+                {
+                    "path": "http://drive.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/intl/en/policies/privacy/",
+                    "children": []
+                },
+                {
+                    "path": "http://googledocs.blogspot.com",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/us/app/google-sheets/id842849113?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/document/create?addon_store",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/spreadsheets/create?addon_store",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/docs?docs_site_home",
+                    "children": []
+                },
+                {
+                    "path": "https://cloud.google.com/?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://gsuite.google.com/features/?utm_source=docsforwork&utm_medium=et&utm_campaign=refresh&utm_content=footer&hl=en",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "https://www.google.co.il/intl/iw/options/",
+            "children": [
+                {
+                    "path": "https://www.google.com/search/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/websearch?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/maps/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/maps",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-maps/lneaknkopdijkpnocmklfnjbeapigfbh",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/maps?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://translate.google.com/about",
+                    "children": []
+                },
+                {
+                    "path": "https://translate.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-translate/id414706506?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/translate?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/chrome/browser/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/yt/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/youtube/id544007664?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/youtube?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.music",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/googleplay/answer/4512465",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-play-movies-tv/id746894884?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/googleplay/topic/2999726?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/product/pixel_2",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/config/pixel_2",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/googlehome?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/product/google_daydream_view",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/config/google_daydream_view",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/daydream?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://madeby.google.com/wifi/",
+                    "children": []
+                },
+                {
+                    "path": "https://madeby.google.com/wifi/?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/phones/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/android?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/androidwear/topic/6056405?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/chromebook/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/category/chromebooks",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/chromebook/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/chromebook?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/intl/en_us/auto/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/androidauto/?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://gmail.com",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/gmail-email-from-google/id422689480?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/mail?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://allo.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/id1096801294?pt=9008&ct=aboutSiteGoogle&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.fireball&referrer=utm_source%3DaboutSiteGoogle%26utm_medium%3DGoogle_referral%26anid%3Dadmob",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/allo#topic=6376118?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://duo.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/apple-store/id1096918571?pt=9008&ct=aboutSiteGoogle&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon&referrer=utm_source%3DaboutSiteGoogle",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/duo#topic=6376099?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/+/learnmore/",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google+/id447119634?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/plus?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/photos/about",
+                    "children": []
+                },
+                {
+                    "path": "https://photos.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-photos-store-search/int/id962194608?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/photos?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/calendar/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-calendar/ejjicmeblgpmajnghnpcppodonldlgfn",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/calendar?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/keep?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&utm_source=gaboutpage&utm_medium=docsplaylink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/docs?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/sheets/about/?utm_source=gaboutpage&utm_medium=sheetslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/apple-store/id842849113?pt=9008&ct=gabout_sheets&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&utm_source=gaboutpage&utm_medium=sheetsplaylink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/slides/about/?utm_source=gaboutpage&utm_medium=slideslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/apple-store/id879478102?pt=9008&ct=gabout_slides&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/docs/topic/2811776?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-drive-free-online-storage/id507874739?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/drive/download/",
+                    "children": []
+                },
+                {
+                    "path": "https://adwords.google.com/home/?subid=ww-ww-et-g-aw-a-about_products_1-redlmo2!",
+                    "children": []
+                },
+                {
+                    "path": "https://adwords.google.com/um/StartNow?subid=ww-ww-et-g-aw-a-about_products_2-redlmo2!",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/apple-store/id1037457231?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/adwords/?utm_source=products&amp;utm_medium=et&amp;utm_campaign=en-us&amp;sourceid=awo&amp;subid=us-en-et-about-products-red-hc&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/adsense/start/?utm_source=internal&utm_medium=et&utm_campaign=app_switcher_ev_mr&utm_content=learn_more",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/adsense?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/analytics",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.giant",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/analytics?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/business/?gmbsrc=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&ppsrc=GMBB0&utm_campaign=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&utm_source=gmb&utm_medium=et",
+                    "children": []
+                },
+                {
+                    "path": "https://business.google.com/add?service=plus&gmbsrc=ww-ww-et-gs-z-gmb-s-z-l~pro-getstart-u&ppsrc=GMBB0&utm_campaign=ww-ww-et-gs-z-gmb-s-z-l~pro-getstart-u&utm_source=gmb&utm_medium=et",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.vega&referrer=utm_source%3Dgmb%26utm_medium%3Det%26utm_campaign%3Dgoogabout",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/business?utm_source=products&amp;utm_medium=et&amp;utm_campaign=en-us&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/intl/en_us/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/intl/en_us/one/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/intl/en_us/pay/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/tablets/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/wear/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/calendar/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/get/cardboard/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/chrome/browser/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/chromebook/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.contacts",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/earth/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/finance",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/forms/about/?utm_source=gaboutpage&utm_medium=formslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://www.gmail.com/intl/en_us/mail/help/about.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/alerts",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/cloudprint/learn/index.html",
+                    "children": []
+                },
+                {
+                    "path": "https://duo.google.com",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/us/category/home_entertainment",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.play.games&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/googleplay/answer/4512465",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/music?signup=1",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/newsstand?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://madeby.google.com/wifi/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/+/learnmore/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/hangouts/answer/2944865",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/keep/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/maps/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/product/pixel_2",
+                    "children": []
+                },
+                {
+                    "path": "https://fi.google.com/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://scholar.google.com/intl/en-US/scholar/about.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/search/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/sheets/about/?utm_source=gaboutpage&utm_medium=sheetslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://sites.google.com/new",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/slides/about/?utm_source=gaboutpage&utm_medium=slideslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://gmailblog.blogspot.com/2015/03/smartbox-by-inbox-mailbox-of-tomorrow.html",
+                    "children": []
+                },
+                {
+                    "path": "https://get.google.com/tango/?utm_source=en-ha-na-sem&utm_medium=text&utm_term=Consumer-Exact&utm_content=bkws&utm_campaign=Tangoconsumer",
+                    "children": []
+                },
+                {
+                    "path": "https://www.tiltbrush.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://get.google.com/trips/",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.waze.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/yt/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://tv.youtube.com/?utm_source=gaboutpage&utm_medium=youtubetv&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/admob/?utm_source=internal&utm_medium=et&utm_term=goo.gl%2FPZaclC&utm_content=midpage&utm_campaign=googlehome%26producticon",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/adsense/start/?utm_source=internal&utm_medium=et&utm_campaign=app_switcher_ev_mr&utm_content=learn_more",
+                    "children": []
+                },
+                {
+                    "path": "https://adwords.google.com/home/?subid=ww-ww-et-g-aw-a-about_products_1-redlmo2!",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/adwords/express/?subid=ww-ww-et-g-aw-a-about_products_4-redlmo2!&_ga=1.175583202.1324762552.1468947456",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/analytics",
+                    "children": []
+                },
+                {
+                    "path": "https://enterprise.google.com/android/",
+                    "children": []
+                },
+                {
+                    "path": "https://cloud.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://enterprise.google.com/search/",
+                    "children": []
+                },
+                {
+                    "path": "https://enterprise.google.com/maps/products/mapsapi.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/business/?gmbsrc=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&ppsrc=GMBB0&utm_campaign=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&utm_source=gmb&utm_medium=et",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/retail/shopping-campaigns/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/trends/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/trustedstores/for-businesses/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/webdesigner/",
+                    "children": []
+                },
+                {
+                    "path": "https://developers.google.com/products/?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://plus.google.com/+google",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/Google",
+                    "children": []
+                },
+                {
+                    "path": "https://www.facebook.com/Google",
+                    "children": []
+                },
+                {
+                    "path": "https://www.linkedin.com/company/google",
+                    "children": []
+                },
+                {
+                    "path": "https://abc.xyz/investor/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.blog.google/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.thinkwithgoogle.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/press/blog-social-directory.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.blog.google/press/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.org",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/diversity/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/accessibility/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com?hl=en",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=http://www.google.co.il/%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3DDnr5WZ7qDYjZ8Aeh8o4o",
+            "children": [
+                {
+                    "path": "https://accounts.google.com/signin/usernamerecovery?continue=http%3A%2F%2Fwww.google.co.il%2F%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3DDnr5WZ7qDYjZ8Aeh8o4o&hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/AccountChooser?continue=http%3A%2F%2Fwww.google.co.il%2F%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3DDnr5WZ7qDYjZ8Aeh8o4o&hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/SignUp?continue=http%3A%2F%2Fwww.google.co.il%2F%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3DDnr5WZ7qDYjZ8Aeh8o4o&hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/intl/iw/about",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/TOS?loc=IL&hl=iw&privacy=true",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/TOS?loc=IL&hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.com/support/accounts?hl=iw",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "http://www.google.co.il/preferences?hl=iw",
+            "children": [
+                {
+                    "path": "https://www.google.co.il/webhp?tab=ww",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/imghp?hl=iw&tab=wi",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/?gl=IL&tab=w1",
+                    "children": []
+                },
+                {
+                    "path": "https://news.google.co.il/nwshp?hl=iw&tab=wn",
+                    "children": []
+                },
+                {
+                    "path": "https://mail.google.com/mail/?tab=wm",
+                    "children": []
+                },
+                {
+                    "path": "https://drive.google.com/?tab=wo",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "https://translate.google.co.il/?hl=iw&tab=wT",
+                    "children": []
+                },
+                {
+                    "path": "https://www.blogger.com/?tab=wj",
+                    "children": []
+                },
+                {
+                    "path": "https://photos.google.com/?tab=wq&pageId=none",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.co.il/preferences%3Fhl%3Diw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/preferences?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/history/optout?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/ManageAccount",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/ServiceLogin?service=safesearchlock&ltmpl=lk&hl=iw&continue=https://www.google.co.il/preferences/sslock%3Fhl%3Diw%26op%3D0%26prev%3D/preferences%253Fhl%253Diw%2526prev%253Dhttp://www.google.co.il/preferences%25253Fhl%25253Diw%26sig%3DAAm6Z9sAAAAAWfmBGerliUU4cVRwWxhCb5HVgu4YKMSZ",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "http://www.google.co.il/history/optout?hl=iw",
+            "children": [
+                {
+                    "path": "https://support.google.com/accounts/answer/61416",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/Login",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/policies/privacy/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/policies/terms/",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "http://www.google.co.il/intl/iw/services/",
+            "children": [
+                {
+                    "path": "https://www.google.com/local/business/add?service=plus&gmbsrc=il-ww-et-gs-z-gmb-s-z-l~ser-ctrl-u&ppsrc=GMBLG&utm_campaign=il-ww-et-gs-z-gmb-s-z-l~ser-ctrl-u&utm_source=gmb&utm_medium=z&subid=il-ww-et-bizsol&hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/business/?gmbsrc=il-ww-et-gs-z-gmb-s-z-l~ser-ctrl-u&subid=il-ww-et-bizsol",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/watch?v=LDKYXDZdFU4",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/watch?v=LDKYXDZdFU4",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/adwords/?sourceid=awo&subid=il-ww-et-bizsol",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/yt/advertise/?subid=ww-ww-et-v_ads_buis_sol&sourceid=awo&utm_source=embedded_promo&utm_medium=et&utm_campaign=buis_solutions&utm_term=et&utm_content=ww",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/a/signup/?hl=iw&source=bizsol-worksmarter&ga_region=emea&ga_country=il&ga_lang=iw#0&utm_source=bizsol_worksmarter&utm_medium=et&utm_campaign=free_trial",
+                    "children": []
+                },
+                {
+                    "path": "https://apps.google.co.il/intx/iw/products/gmail/?utm_source=bizsol_worksmarter&utm_medium=et&utm_campaign=gmail_bizsol",
+                    "children": []
+                },
+                {
+                    "path": "https://apps.google.co.il/intx/iw/products/calendar/?utm_source=bizsol_worksmarter&utm_medium=et&utm_campaign=calendar_bizsol",
+                    "children": []
+                },
+                {
+                    "path": "https://apps.google.co.il/intx/iw/products/hangouts/?utm_source=bizsol_worksmarter&utm_medium=et&utm_campaign=hangouts_bizsol",
+                    "children": []
+                },
+                {
+                    "path": "https://apps.google.co.il/intx/iw/products/drive/?utm_source=bizsol_worksmarter&utm_medium=et&utm_campaign=drive_bizsol",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/watch?v=taqggFQaJtE",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/watch?v=taqggFQaJtE",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/adsense/start/?subid=WW-EN-ET-bizsol-inpage&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-in-page-txt",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/admob/?subid=ww-ww-et-bizsol&_adc=eww-ww-et-bizsol&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-in-page-txt",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/analytics/?utm_source=Internal&utm_campaign=InPage&utm_medium=BusinessSolutions",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/analytics/features/mobile-app-analytics.html?utm_source=Internal&utm_campaign=InPage&utm_medium=BusinessSolutions",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/adwords/?subid=il-ww-et-bizsol",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/yt/advertise/?subid=ww-ww-et-v_ads_buis_sol&sourceid=awo&utm_source=embedded_promo&utm_medium=et&utm_campaign=buis_solutions&utm_term=et&utm_content=ww",
+                    "children": []
+                },
+                {
+                    "path": "https://gsuite.google.co.il/intl/iw/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=explore",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/chrome/business/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=explore",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/adsense/start/?subid=WW-EN-ET-bizsol-othersol&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-other-sol",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/admob/?subid=ww-ww-et-bizsol&_adc=eww-ww-et-bizsol&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-other-sol",
+                    "children": []
+                },
+                {
+                    "path": "https://www.doubleclickbygoogle.com/solutions/revenue-management/join-dfp/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/analytics/?utm_source=Internal&utm_campaign=InPage&utm_medium=BusinessSolutions",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/analytics/features/mobile-app-analytics.html?utm_source=Internal&utm_campaign=InPage&utm_medium=BusinessSolutions",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/analytics/tag-manager/?utm_source=Internal&utm_medium=BusinessSolutions&utm_campaign=ExploreSolutions",
+                    "children": []
+                },
+                {
+                    "path": "https://plus.google.com/+GoogleAds",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/yt/advertise/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://plus.google.com/+GoogleAds/posts?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://plus.google.com/+GoogleAnalytics/?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://developers.google.com/?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/services/sitemap.html?utm_source=Internal&utm_medium=BusinessSolutions&utm_campaign=trustedstores",
+                    "children": []
+                },
+                {
+                    "path": "https://gsuite.google.co.il/intl/iw/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=footer",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/analytics/?utm_source=Internal&utm_medium=BusinessSolutions&utm_campaign=Footer",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/?hl=iw",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "http://www.google.co.il/setprefdomain?prefdom=US&sig=__4G4AlmGY2iR6n3ctw8-TvMJrNOk%3D",
+            "children": [
+                {
+                    "path": "https://www.google.co.il/webhp?tab=ww",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/imghp?hl=iw&tab=wi",
+                    "children": []
+                },
+                {
+                    "path": "http://maps.google.co.il/maps?hl=iw&tab=wl",
+                    "children": []
+                },
+                {
+                    "path": "http://news.google.co.il/nwshp?hl=iw&tab=wn",
+                    "children": []
+                },
+                {
+                    "path": "https://mail.google.com/mail/?tab=wm",
+                    "children": []
+                },
+                {
+                    "path": "https://drive.google.com/?tab=wo",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "http://translate.google.co.il/?hl=iw&tab=wT",
+                    "children": []
+                },
+                {
+                    "path": "http://www.blogger.com/?tab=wj",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/document/?usp=docs_alc",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/options/",
+                    "children": []
+                },
+                {
+                    "path": "https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=http://www.google.co.il/",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/preferences?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/history/optout?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/intl/iw/services/",
+                    "children": []
+                },
+                {
+                    "path": "http://www.google.co.il/setprefdomain?prefdom=US&sig=__qAsXDeKPpDJ8UwHARyP30Ljk_Lc%3D",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

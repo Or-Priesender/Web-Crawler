@@ -29,10 +29,6 @@
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/calendar?tab=wc",
-                    "children": []
-                },
-                {
                     "path": "https://www.google.co.il/intl/iw/options/",
                     "children": []
                 },
@@ -41,11 +37,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://www.blogger.com/?tab=wj",
+                    "path": "https://photos.google.com/?tab=wq&pageId=none",
                     "children": []
                 },
                 {
-                    "path": "https://photos.google.com/?tab=wq&pageId=none",
+                    "path": "https://docs.google.com/document/?usp=docs_alc",
                     "children": []
                 },
                 {
@@ -61,11 +57,15 @@
                     "children": []
                 },
                 {
+                    "path": "http://www.google.co.il/history/optout?hl=iw",
+                    "children": []
+                },
+                {
                     "path": "http://www.google.co.il/intl/iw/services/",
                     "children": []
                 },
                 {
-                    "path": "https://www.google.co.il/setprefdomain?prefdom=US&sig=__LCH323xvLriWkMS1RlBLsjblp90%3D",
+                    "path": "https://www.google.co.il/setprefdomain?prefdom=US&sig=__z3Mj-porGMEKt42Xqj3yUJQnhWU%3D",
                     "children": []
                 }
             ]
@@ -79,6 +79,10 @@
                 },
                 {
                     "path": "http://www.google.co.il/imghp?hl=iw&tab=ii",
+                    "children": []
+                },
+                {
+                    "path": "http://maps.google.co.il/maps?hl=iw&tab=il",
                     "children": []
                 },
                 {
@@ -106,7 +110,15 @@
                     "children": []
                 },
                 {
+                    "path": "http://www.blogger.com/?tab=ij",
+                    "children": []
+                },
+                {
                     "path": "https://photos.google.com/?tab=iq&pageId=none",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/document/?usp=docs_alc",
                     "children": []
                 },
                 {
@@ -139,7 +151,7 @@
             "path": "http://www.youtube.com/?gl=IL&tab=w1",
             "children": [
                 {
-                    "path": "https://accounts.google.com/ServiceLogin?uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252F%253Fgl%253DIL%2526tab%253Dw1%26app%3Ddesktop%26feature%3Dsign_in_promo%26hl%3Den&passive=true&service=youtube&hl=en",
+                    "path": "https://accounts.google.com/ServiceLogin?uilel=3&service=youtube&hl=en&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dsign_in_promo%26next%3D%252F%253Fgl%253DIL%2526tab%253Dw1%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop",
                     "children": []
                 },
                 {
@@ -151,7 +163,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://accounts.google.com/ServiceLogin?uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252F%253Fgl%253DIL%2526tab%253Dw1%26app%3Ddesktop%26feature%3Dplaylist%26hl%3Den&passive=true&service=youtube&hl=en",
+                    "path": "https://accounts.google.com/ServiceLogin?uilel=3&service=youtube&hl=en&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dplaylist%26next%3D%252F%253Fgl%253DIL%2526tab%253Dw1%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop",
                     "children": []
                 }
             ]
@@ -240,363 +252,367 @@
                     "children": []
                 },
                 {
-                    "path": "https://news.walla.co.il/item/3108101",
+                    "path": "https://news.walla.co.il/item/3109044",
                     "children": []
                 },
                 {
-                    "path": "https://news.walla.co.il/item/3108101",
+                    "path": "https://news.walla.co.il/item/3109044",
                     "children": []
                 },
                 {
-                    "path": "http://www.kikar.co.il/254625.html",
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1272523",
                     "children": []
                 },
                 {
-                    "path": "https://news.walla.co.il/item/3108128",
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1272497",
                     "children": []
                 },
                 {
-                    "path": "https://news.walla.co.il/item/3108128",
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1272497",
                     "children": []
                 },
                 {
-                    "path": "http://www.kikar.co.il/254659.html",
+                    "path": "https://news.walla.co.il/item/3108999",
                     "children": []
                 },
                 {
-                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271882",
+                    "path": "http://www.nrg.co.il/online/1/ART2/901/127.html",
                     "children": []
                 },
                 {
-                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271882",
+                    "path": "http://www.nrg.co.il/online/1/ART2/901/127.html",
                     "children": []
                 },
                 {
-                    "path": "https://news.walla.co.il/item/3108048",
+                    "path": "http://www.israeldefense.co.il/he/node/31579",
                     "children": []
                 },
                 {
-                    "path": "https://www.haaretz.co.il/news/politi/1.4564045",
+                    "path": "https://news.walla.co.il/item/3108930",
                     "children": []
                 },
                 {
-                    "path": "https://www.haaretz.co.il/news/politi/1.4564045",
+                    "path": "https://news.walla.co.il/item/3108930",
                     "children": []
                 },
                 {
-                    "path": "http://www.maariv.co.il/news/israel/Article-605947",
+                    "path": "http://www.israelhayom.co.il/article/513481",
                     "children": []
                 },
                 {
-                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271827",
+                    "path": "http://www.news1.co.il/BringHtmlDoc.aspx?docid=396354&subjectid=1",
                     "children": []
                 },
                 {
-                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271827",
+                    "path": "http://www.news1.co.il/BringHtmlDoc.aspx?docid=396354&subjectid=1",
                     "children": []
                 },
                 {
-                    "path": "http://www.nrg.co.il/online/1/ART2/900/558.html",
+                    "path": "http://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/%D7%A8%D7%90%D7%A9%D7%99-%D7%A8%D7%A9%D7%95%D7%99%D7%95%D7%AA-%D7%91%D7%99%D7%95%D7%A9-%D7%95%D7%9E%D7%A9%D7%A4%D7%97%D7%95%D7%AA-%D7%A9%D7%9B%D7%95%D7%9C%D7%95%D7%AA-%D7%9C%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95-%D7%A0%D7%A9%D7%91%D7%95%D7%AA-%D7%A8%D7%A2%D7%91-%D7%A2%D7%93-%D7%A9%D7%AA%D7%A2%D7%91%D7%99/",
                     "children": []
                 },
                 {
-                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036611,00.html",
+                    "path": "https://news.walla.co.il/item/3108912",
                     "children": []
                 },
                 {
-                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036611,00.html",
+                    "path": "https://news.walla.co.il/item/3108912",
                     "children": []
                 },
                 {
-                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271881",
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1272454",
                     "children": []
                 },
                 {
-                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036947,00.html",
+                    "path": "https://www.themarker.com/law/1.4567207",
                     "children": []
                 },
                 {
-                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036947,00.html",
+                    "path": "https://www.themarker.com/law/1.4567207",
                     "children": []
                 },
                 {
-                    "path": "http://www.davar1.co.il/92266/",
+                    "path": "http://www.kikar.co.il/255047.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.davar1.co.il/92266/",
+                    "path": "http://www.mako.co.il/news-israel/local-q4_2017/Article-fbcd1468e5a8f51004.htm",
                     "children": []
                 },
                 {
-                    "path": "https://www.20il.co.il/%D7%9B%D7%AA%D7%91%D7%94-%D7%97%D7%9B-%D7%9B%D7%AA%D7%91%D7%94-%D7%92%D7%99%D7%9C%D7%90%D7%95%D7%9F-%D7%A7%D7%A6%D7%91%D7%AA-%D7%94%D7%A0%D7%9B%D7%95%D7%AAjj-%D7%9C%D7%90-%D7%AA%D7%A2%D7%9C%D7%94/",
+                    "path": "http://www.mako.co.il/news-israel/local-q4_2017/Article-fbcd1468e5a8f51004.htm",
                     "children": []
                 },
                 {
-                    "path": "http://www.mako.co.il/news-law/crime-q4_2017/Article-11af4b27a467f51004.htm",
+                    "path": "https://news.walla.co.il/item/3108980",
                     "children": []
                 },
                 {
-                    "path": "http://www.mako.co.il/news-law/crime-q4_2017/Article-11af4b27a467f51004.htm",
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1272480",
                     "children": []
                 },
                 {
-                    "path": "http://www.nrg.co.il/online/1/ART2/900/609.html",
+                    "path": "https://www.haaretz.co.il/news/law/1.4568021",
                     "children": []
                 },
                 {
-                    "path": "https://www.themarker.com/law/1.4563865",
+                    "path": "https://www.haaretz.co.il/news/law/1.4568021",
                     "children": []
                 },
                 {
-                    "path": "https://www.themarker.com/law/1.4563865",
+                    "path": "http://www.kikar.co.il/255089.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036417,00.html",
+                    "path": "http://www.kikar.co.il/255081.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.nrg.co.il/online/1/ART2/900/595.html",
+                    "path": "http://www.kikar.co.il/255081.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.nrg.co.il/online/1/ART2/900/595.html",
+                    "path": "https://www.calcalist.co.il/world/articles/0,7340,L-3724280,00.html",
                     "children": []
                 },
                 {
-                    "path": "https://news.walla.co.il/item/3107963",
+                    "path": "https://www.calcalist.co.il/world/articles/0,7340,L-3724280,00.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036637,00.html",
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1272466",
                     "children": []
                 },
                 {
-                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036637,00.html",
+                    "path": "http://www.nrg.co.il/online/1/ART2/901/111.html",
                     "children": []
                 },
                 {
-                    "path": "http://news.nana10.co.il/Article/?ArticleID=1271870",
+                    "path": "http://www.nrg.co.il/online/1/ART2/901/111.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.news1.co.il/BringHtmlDoc.aspx?docid=396248&subjectId=1",
+                    "path": "https://news.walla.co.il/item/3108965",
                     "children": []
                 },
                 {
-                    "path": "http://www.news1.co.il/BringHtmlDoc.aspx?docid=396248&subjectId=1",
+                    "path": "https://www.haaretz.co.il/news/world/asia/1.4567985",
                     "children": []
                 },
                 {
-                    "path": "http://www.israelhayom.co.il/article/512791",
+                    "path": "https://www.haaretz.co.il/news/world/asia/1.4567985",
                     "children": []
                 },
                 {
-                    "path": "http://www.israelhayom.co.il/article/512791",
+                    "path": "http://www.maariv.co.il/news/world/Article-607371",
                     "children": []
                 },
                 {
-                    "path": "https://www.haaretz.co.il/news/world/europe/1.4554703",
+                    "path": "http://www.93fm.co.il/radio/432323/",
                     "children": []
                 },
                 {
-                    "path": "https://www.calcalist.co.il/markets/articles/0,7340,L-3724033,00.html",
+                    "path": "http://www.93fm.co.il/radio/432323/",
                     "children": []
                 },
                 {
-                    "path": "https://www.calcalist.co.il/markets/articles/0,7340,L-3724033,00.html",
+                    "path": "http://www.kikar.co.il/254848.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.bizportal.co.il/wallstreet/news/article/641560",
+                    "path": "https://www.calcalist.co.il/marketing/articles/0,7340,L-3724289,00.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.srugim.co.il/220508-%D7%9E%D7%A0%D7%9B%D7%9C-%D7%92%D7%95%D7%92%D7%9C-%D7%94%D7%AA%D7%A2%D7%A8%D7%91-%D7%91%D7%95%D7%95%D7%99%D7%9B%D7%95%D7%97-%D7%94%D7%9B%D7%99-%D7%9E%D7%92%D7%95%D7%97%D7%9A-%D7%91%D7%A8%D7%A9%D7%AA",
+                    "path": "https://www.calcalist.co.il/marketing/articles/0,7340,L-3724289,00.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.srugim.co.il/220508-%D7%9E%D7%A0%D7%9B%D7%9C-%D7%92%D7%95%D7%92%D7%9C-%D7%94%D7%AA%D7%A2%D7%A8%D7%91-%D7%91%D7%95%D7%95%D7%99%D7%9B%D7%95%D7%97-%D7%94%D7%9B%D7%99-%D7%9E%D7%92%D7%95%D7%97%D7%9A-%D7%91%D7%A8%D7%A9%D7%AA",
+                    "path": "https://www.themarker.com/markets/1.4568122",
                     "children": []
                 },
                 {
-                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036379,00.html",
+                    "path": "https://www.themarker.com/news/macro/1.4568090",
                     "children": []
                 },
                 {
-                    "path": "https://www.calcalist.co.il/local/articles/0,7340,L-3724032,00.html",
+                    "path": "https://www.themarker.com/news/macro/1.4568090",
                     "children": []
                 },
                 {
-                    "path": "https://www.calcalist.co.il/local/articles/0,7340,L-3724032,00.html",
+                    "path": "https://www.themarker.com/news/macro/1.4568105",
                     "children": []
                 },
                 {
-                    "path": "http://www.pc.co.il/it-news/252031/",
+                    "path": "https://www.themarker.com/news/macro/1.4568105",
                     "children": []
                 },
                 {
-                    "path": "http://www.pc.co.il/it-news/252031/",
+                    "path": "https://www.foodis.co.il/%D7%A9%D7%A3-%D7%90%D7%A1%D7%99-%D7%93%D7%9C%D7%A7-%D7%A2%D7%9C-%D7%94%D7%90%D7%A8%D7%95%D7%97%D7%94-%D7%94%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%AA-%D7%A9%D7%AA%D7%95%D7%92%D7%A9-%D7%9C%D7%9E%D7%A9%D7%AA/",
                     "children": []
                 },
                 {
-                    "path": "https://www.themarker.com/technation/1.4552786",
+                    "path": "https://www.foodis.co.il/%D7%A9%D7%A3-%D7%90%D7%A1%D7%99-%D7%93%D7%9C%D7%A7-%D7%A2%D7%9C-%D7%94%D7%90%D7%A8%D7%95%D7%97%D7%94-%D7%94%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%AA-%D7%A9%D7%AA%D7%95%D7%92%D7%A9-%D7%9C%D7%9E%D7%A9%D7%AA/",
                     "children": []
                 },
                 {
-                    "path": "https://tech.walla.co.il/item/3107197",
+                    "path": "https://tech.walla.co.il/item/3108786",
                     "children": []
                 },
                 {
-                    "path": "https://tech.walla.co.il/item/3107197",
+                    "path": "https://tech.walla.co.il/item/3108786",
                     "children": []
                 },
                 {
-                    "path": "https://www.themarker.com/technation/1.4550107",
+                    "path": "https://www.tgspot.co.il/razer-phone-announced-officially/",
                     "children": []
                 },
                 {
-                    "path": "http://www.yedatech.co.il/yt/news.jhtml?value=25471",
+                    "path": "https://www.tgspot.co.il/razer-phone-announced-officially/",
                     "children": []
                 },
                 {
-                    "path": "http://www.yedatech.co.il/yt/news.jhtml?value=25471",
+                    "path": "https://www.haaretz.co.il/captain/gadget/1.4566205",
                     "children": []
                 },
                 {
-                    "path": "https://g-rafa.co.il/%D7%97%D7%91%D7%A8%D7%AA-brother-%D7%9E%D7%A9%D7%99%D7%A7%D7%94-%D7%A1%D7%93%D7%A8%D7%AA-%D7%9E%D7%93%D7%A4%D7%A1%D7%95%D7%AA-%D7%9C%D7%99%D7%99%D7%96%D7%A8-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%95/",
+                    "path": "https://www.haaretz.co.il/captain/gadget/1.4566205",
                     "children": []
                 },
                 {
-                    "path": "http://www.pc.co.il/thenewcom/252156/",
+                    "path": "https://www.htmobile.co.il/article08225.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.pc.co.il/thenewcom/252156/",
+                    "path": "https://www.gadgety.co.il/191478/oppo-r11s-plus-announced/",
                     "children": []
                 },
                 {
-                    "path": "https://www.geektime.co.il/apple-fires-engineer-iphone-x/",
+                    "path": "https://www.gadgety.co.il/191478/oppo-r11s-plus-announced/",
                     "children": []
                 },
                 {
-                    "path": "https://tech.walla.co.il/item/3107579",
+                    "path": "https://www.tgspot.co.il/oppo-r11s-offcial-announced/",
                     "children": []
                 },
                 {
-                    "path": "http://www.nrg.co.il/online/11/ART2/900/518.html",
+                    "path": "https://www.ynet.co.il/articles/0,7340,L-5038523,00.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.nrg.co.il/online/11/ART2/900/518.html",
+                    "path": "https://www.ynet.co.il/articles/0,7340,L-5038523,00.html",
                     "children": []
                 },
                 {
-                    "path": "https://www.ynet.co.il/articles/0,7340,L-5036432,00.html",
+                    "path": "https://b.walla.co.il/item/3108679",
                     "children": []
                 },
                 {
-                    "path": "https://e.walla.co.il/item/3108139",
+                    "path": "https://b.walla.co.il/item/3108679",
                     "children": []
                 },
                 {
-                    "path": "https://e.walla.co.il/item/3108139",
+                    "path": "https://www.haaretz.co.il/gallery/opinion/1.4567652",
                     "children": []
                 },
                 {
-                    "path": "http://www.mako.co.il/tv/Article-5f4b04b83537f51006.htm",
+                    "path": "http://www.maariv.co.il/culture/movies/Article-606211",
                     "children": []
                 },
                 {
-                    "path": "https://www.calcalist.co.il/marketing/articles/0,7340,L-3724023,00.html",
+                    "path": "http://www.maariv.co.il/culture/movies/Article-606211",
                     "children": []
                 },
                 {
-                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036757,00.html",
+                    "path": "http://www.nrg.co.il/online/47/ART2/901/067.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.ynet.co.il/articles/0,7340,L-5036757,00.html",
+                    "path": "http://www.nrg.co.il/online/47/ART2/901/067.html",
                     "children": []
                 },
                 {
-                    "path": "https://e.walla.co.il/item/3108065",
+                    "path": "https://e.walla.co.il/item/3108865",
                     "children": []
                 },
                 {
-                    "path": "https://e.walla.co.il/item/3107584",
+                    "path": "https://sports.walla.co.il/item/3109034",
                     "children": []
                 },
                 {
-                    "path": "https://e.walla.co.il/item/3107584",
+                    "path": "https://sports.walla.co.il/item/3109034",
                     "children": []
                 },
                 {
-                    "path": "http://bidur.nana10.co.il/Article/?ArticleID=1271662",
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5038634,00.html",
                     "children": []
                 },
                 {
-                    "path": "https://www.calcalist.co.il/local/articles/0,7340,L-3724007,00.html",
+                    "path": "http://www.sport5.co.il/articles.aspx?FolderID=3075&docID=257478&lang=HE",
                     "children": []
                 },
                 {
-                    "path": "https://www.calcalist.co.il/local/articles/0,7340,L-3724007,00.html",
+                    "path": "http://www.sport5.co.il/articles.aspx?FolderID=3075&docID=257478&lang=HE",
                     "children": []
                 },
                 {
-                    "path": "http://www.one.co.il/Article/17-18/1,1,4,0/300883.html?ref=hp",
+                    "path": "https://sports.walla.co.il/item/3109004",
                     "children": []
                 },
                 {
-                    "path": "http://www.one.co.il/Article/17-18/1,1,4,0/300883.html?ref=hp",
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5038493,00.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.one.co.il/Article/17-18/3,14,51,0/300882.html?ref=hp",
+                    "path": "http://www.ynet.co.il/articles/0,7340,L-5038493,00.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.one.co.il/Article/17-18/3,14,51,0/300882.html?ref=hp",
+                    "path": "https://sports.walla.co.il/item/3109029",
                     "children": []
                 },
                 {
-                    "path": "http://www.sport5.co.il/articles.aspx?FolderID=398&docID=256157&lang=HE",
+                    "path": "http://www.sport5.co.il/HTML/Articles/Article.64.256460.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.nrg.co.il/online/3/ART2/900/649.html",
+                    "path": "http://www.sport5.co.il/HTML/Articles/Article.64.256460.html",
                     "children": []
                 },
                 {
-                    "path": "http://www.nrg.co.il/online/3/ART2/900/649.html",
+                    "path": "https://doctorsonly.co.il/2017/11/131505/",
                     "children": []
                 },
                 {
-                    "path": "http://www.israelhayom.co.il/article/512835",
+                    "path": "https://doctorsonly.co.il/2017/11/131505/",
                     "children": []
                 },
                 {
-                    "path": "http://www.one.co.il/Article/17-18/1,2,5,0/300879.html?ref=rss",
+                    "path": "http://www.news1.co.il/BringHtmlDoc.aspx?docid=396314&subjectid=1",
                     "children": []
                 },
                 {
-                    "path": "http://www.one.co.il/Article/17-18/1,2,5,0/300879.html?ref=rss",
+                    "path": "http://www.israelhayom.co.il/article/513499",
                     "children": []
                 },
                 {
-                    "path": "http://www.kikar.co.il/254626.html",
+                    "path": "http://www.israelhayom.co.il/article/513499",
                     "children": []
                 },
                 {
-                    "path": "http://www.kikar.co.il/254626.html",
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1272457",
                     "children": []
                 },
                 {
-                    "path": "https://healthy.walla.co.il/item/3106717",
+                    "path": "http://news.nana10.co.il/Article/?ArticleID=1272457",
                     "children": []
                 },
                 {
-                    "path": "https://healthy.walla.co.il/item/3106717",
+                    "path": "https://doctorsonly.co.il/2017/11/131518/",
+                    "children": []
+                },
+                {
+                    "path": "https://doctorsonly.co.il/2017/11/131518/",
                     "children": []
                 },
                 {
@@ -604,11 +620,7 @@
                     "children": []
                 },
                 {
-                    "path": "http://www.mako.co.il/news-israel/health-q4_2017/Article-3a9fcc60ef57f51004.htm",
-                    "children": []
-                },
-                {
-                    "path": "http://israelnow.co.il/%D7%A1%D7%A4%D7%95%D7%A8%D7%98/%D7%99%D7%99%D7%A6%D7%95%D7%92-%D7%9E%D7%9B%D7%95%D7%91%D7%93-%D7%9C%D7%9C%D7%A0%D7%99%D7%90%D7%93%D7%95-%D7%91%D7%9B%D7%99%D7%A0%D7%95%D7%A1-%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%9C/",
+                    "path": "http://www.israelhayom.co.il/article/513591",
                     "children": []
                 },
                 {
@@ -616,15 +628,15 @@
                     "children": []
                 },
                 {
-                    "path": "http://www.mouse.co.il/art/articles/1.4498638",
+                    "path": "http://www.local.co.il/tel-aviv/148513/Article/",
                     "children": []
                 },
                 {
-                    "path": "https://www.haaretz.co.il/blogs/veredlee/1.4553020",
+                    "path": "https://tlv.am/article/4445",
                     "children": []
                 },
                 {
-                    "path": "https://timeout.co.il/%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99/%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91-%D7%97%D7%93%D7%A9%D7%95%D7%AA-%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA/%D7%90%D7%99%D7%9A-%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9%D7%99%D7%9D-%D7%91%D7%98%D7%9C%D7%92%D7%A8%D7%90%D7%A1",
+                    "path": "https://local.co.il/kfar-saba/148502/Article/",
                     "children": []
                 },
                 {
@@ -693,6 +705,10 @@
                     "children": []
                 },
                 {
+                    "path": "https://accounts.google.com/TOS?loc=IL&hl=en&privacy=true",
+                    "children": []
+                },
+                {
                     "path": "https://accounts.google.com/TOS?loc=IL&hl=en",
                     "children": []
                 },
@@ -722,10 +738,6 @@
                     "children": []
                 },
                 {
-                    "path": "https://accounts.google.com/TOS?loc=IL&hl=en&privacy=true",
-                    "children": []
-                },
-                {
                     "path": "https://accounts.google.com/TOS?loc=IL&hl=en",
                     "children": []
                 },
@@ -737,20 +749,7 @@
         },
         {
             "path": "https://www.google.com/calendar?tab=wc",
-            "children": [
-                {
-                    "path": "https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender%3Ftab%3Dwc&followup=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender%3Ftab%3Dwc&service=cl&scc=1&osid=1",
-                    "children": []
-                },
-                {
-                    "path": "https://accounts.google.com/SignUp?service=cl&continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender%3Ftab%3Dwc",
-                    "children": []
-                },
-                {
-                    "path": "https://accounts.google.com/TOS?loc=IL&hl=en&privacy=true",
-                    "children": []
-                }
-            ]
+            "children": []
         },
         {
             "path": "https://www.google.co.il/intl/iw/options/",
@@ -765,10 +764,6 @@
                 },
                 {
                     "path": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
-                    "children": []
-                },
-                {
-                    "path": "https://support.google.com/websearch?hl=en",
                     "children": []
                 },
                 {
@@ -808,6 +803,10 @@
                     "children": []
                 },
                 {
+                    "path": "https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb",
+                    "children": []
+                },
+                {
                     "path": "https://support.google.com/translate?hl=en",
                     "children": []
                 },
@@ -820,11 +819,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://play.google.com/store/apps/details?id=com.android.chrome",
-                    "children": []
-                },
-                {
-                    "path": "https://support.google.com/chrome?hl=en",
+                    "path": "https://www.google.com/chrome/browser/",
                     "children": []
                 },
                 {
@@ -845,10 +840,6 @@
                 },
                 {
                     "path": "https://support.google.com/youtube?hl=en",
-                    "children": []
-                },
-                {
-                    "path": "https://play.google.com/music?signup=1",
                     "children": []
                 },
                 {
@@ -876,10 +867,6 @@
                     "children": []
                 },
                 {
-                    "path": "https://support.google.com/googleplay/answer/4512465",
-                    "children": []
-                },
-                {
                     "path": "https://play.google.com/store/movies",
                     "children": []
                 },
@@ -904,10 +891,6 @@
                     "children": []
                 },
                 {
-                    "path": "https://store.google.com/config/pixel_2",
-                    "children": []
-                },
-                {
                     "path": "https://store.google.com/product/pixel_2_learn?hl=en",
                     "children": []
                 },
@@ -925,10 +908,6 @@
                 },
                 {
                     "path": "https://store.google.com/config/google_daydream_view",
-                    "children": []
-                },
-                {
-                    "path": "https://support.google.com/daydream?hl=en",
                     "children": []
                 },
                 {
@@ -960,14 +939,6 @@
                     "children": []
                 },
                 {
-                    "path": "https://store.google.com/category/android_wear",
-                    "children": []
-                },
-                {
-                    "path": "https://support.google.com/androidwear/topic/6056405?hl=en",
-                    "children": []
-                },
-                {
                     "path": "https://www.google.com/chromebook/about/",
                     "children": []
                 },
@@ -984,19 +955,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://www.android.com/intl/en_us/auto/",
-                    "children": []
-                },
-                {
                     "path": "https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead",
                     "children": []
                 },
                 {
-                    "path": "https://support.google.com/androidauto/?hl=en",
-                    "children": []
-                },
-                {
-                    "path": "https://www.gmail.com/intl/en_us/mail/help/about.html",
+                    "path": "https://gmail.com",
                     "children": []
                 },
                 {
@@ -1020,11 +983,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.fireball&referrer=utm_source%3DaboutSiteGoogle%26utm_medium%3DGoogle_referral%26anid%3Dadmob",
+                    "path": "https://itunes.apple.com/app/id1096801294?pt=9008&ct=aboutSiteGoogle&mt=8",
                     "children": []
                 },
                 {
-                    "path": "https://support.google.com/allo#topic=6376118?hl=en",
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.fireball&referrer=utm_source%3DaboutSiteGoogle%26utm_medium%3DGoogle_referral%26anid%3Dadmob",
                     "children": []
                 },
                 {
@@ -1037,6 +1000,14 @@
                 },
                 {
                     "path": "https://support.google.com/duo#topic=6376099?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/+/learnmore/",
+                    "children": []
+                },
+                {
+                    "path": "https://plus.google.com",
                     "children": []
                 },
                 {
@@ -1077,6 +1048,10 @@
                 },
                 {
                     "path": "https://www.google.com/contacts/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/pixelphone/topic/6118711?hl=en",
                     "children": []
                 },
                 {
@@ -1124,14 +1099,6 @@
                     "children": []
                 },
                 {
-                    "path": "https://docs.google.com/document/?usp=gabout_docs",
-                    "children": []
-                },
-                {
-                    "path": "https://itunes.apple.com/app/apple-store/id842842640?pt=9008&ct=gabout_docs&mt=8",
-                    "children": []
-                },
-                {
                     "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&utm_source=gaboutpage&utm_medium=docsplaylink&utm_campaign=gabout",
                     "children": []
                 },
@@ -1148,7 +1115,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://chrome.google.com/webstore/detail/google-sheets/felcaaldnbdncclmgdcncolpebgiejap",
+                    "path": "https://itunes.apple.com/app/apple-store/id842849113?pt=9008&ct=gabout_sheets&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&utm_source=gaboutpage&utm_medium=sheetsplaylink&utm_campaign=gabout",
                     "children": []
                 },
                 {
@@ -1160,11 +1131,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://docs.google.com/presentation/?usp=gabout_slides",
-                    "children": []
-                },
-                {
-                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&utm_source=gaboutpage&utm_medium=slidesplaylink&utm_campaign=gabout",
+                    "path": "https://itunes.apple.com/app/apple-store/id879478102?pt=9008&ct=gabout_slides&mt=8",
                     "children": []
                 },
                 {
@@ -1196,11 +1163,23 @@
                     "children": []
                 },
                 {
+                    "path": "https://support.google.com/drive/topic/6069797?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://adwords.google.com/home/?subid=ww-ww-et-g-aw-a-about_products_1-redlmo2!",
+                    "children": []
+                },
+                {
                     "path": "https://adwords.google.com/um/StartNow?subid=ww-ww-et-g-aw-a-about_products_2-redlmo2!",
                     "children": []
                 },
                 {
                     "path": "https://itunes.apple.com/app/apple-store/id1037457231?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.adwords&referrer=utm_source%3Dabout-products-red-US%26utm_medium%3DaboutGoogle%26utm_campaign%3DEvergreen",
                     "children": []
                 },
                 {
@@ -1217,6 +1196,10 @@
                 },
                 {
                     "path": "https://www.google.com/analytics",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-analytics/id881599038?mt=8",
                     "children": []
                 },
                 {
@@ -1296,6 +1279,14 @@
                     "children": []
                 },
                 {
+                    "path": "https://chromecast.com",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.contacts",
+                    "children": []
+                },
+                {
                     "path": "https://store.google.com/product/google_daydream_view",
                     "children": []
                 },
@@ -1317,10 +1308,6 @@
                 },
                 {
                     "path": "https://itunes.apple.com/app/gboard-search.-gifs.-emojis/id1091700242?mt=8",
-                    "children": []
-                },
-                {
-                    "path": "https://www.gmail.com/intl/en_us/mail/help/about.html",
                     "children": []
                 },
                 {
@@ -1348,11 +1335,15 @@
                     "children": []
                 },
                 {
+                    "path": "https://www.google.com/express/",
+                    "children": []
+                },
+                {
                     "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=en",
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/flights",
+                    "path": "https://groups.google.com",
                     "children": []
                 },
                 {
@@ -1364,19 +1355,15 @@
                     "children": []
                 },
                 {
-                    "path": "https://play.google.com/store?hl=en",
-                    "children": []
-                },
-                {
                     "path": "https://play.google.com/store/apps",
                     "children": []
                 },
                 {
-                    "path": "https://support.google.com/googleplay/answer/4512465",
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.play.games&hl=en",
                     "children": []
                 },
                 {
-                    "path": "https://play.google.com/music?signup=1",
+                    "path": "https://support.google.com/googleplay/answer/4512465",
                     "children": []
                 },
                 {
@@ -1392,11 +1379,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/+/learnmore/",
+                    "path": "https://www.google.com/edu/products/productivity-tools/",
                     "children": []
                 },
                 {
-                    "path": "https://support.google.com/hangouts/answer/2944865",
+                    "path": "https://www.google.com/+/learnmore/",
                     "children": []
                 },
                 {
@@ -1417,6 +1404,10 @@
                 },
                 {
                     "path": "https://store.google.com/product/pixel_2",
+                    "children": []
+                },
+                {
+                    "path": "https://fi.google.com/about/",
                     "children": []
                 },
                 {
@@ -1472,11 +1463,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://youtube-global.blogspot.com/2015/02/youtube-kids.html",
+                    "path": "https://tv.youtube.com/?utm_source=gaboutpage&utm_medium=youtubetv&utm_campaign=gabout",
                     "children": []
                 },
                 {
-                    "path": "https://tv.youtube.com/?utm_source=gaboutpage&utm_medium=youtubetv&utm_campaign=gabout",
+                    "path": "https://www.google.com/admob/?utm_source=internal&utm_medium=et&utm_term=goo.gl%2FPZaclC&utm_content=midpage&utm_campaign=googlehome%26producticon",
                     "children": []
                 },
                 {
@@ -1484,11 +1475,15 @@
                     "children": []
                 },
                 {
+                    "path": "https://adwords.google.com/home/?subid=ww-ww-et-g-aw-a-about_products_1-redlmo2!",
+                    "children": []
+                },
+                {
                     "path": "https://www.google.com/adwords/express/?subid=ww-ww-et-g-aw-a-about_products_4-redlmo2!&_ga=1.175583202.1324762552.1468947456",
                     "children": []
                 },
                 {
-                    "path": "https://enterprise.google.com/android/",
+                    "path": "https://www.google.com/analytics",
                     "children": []
                 },
                 {
@@ -1496,11 +1491,19 @@
                     "children": []
                 },
                 {
-                    "path": "https://cloud.google.com/",
+                    "path": "https://enterprise.google.com/chrome/",
                     "children": []
                 },
                 {
-                    "path": "https://domains.google.com/about/",
+                    "path": "https://learndigital.withgoogle.com/digitalgarage?utm_source=Engagement&utm_medium=ep&utm_term=ep&utm_content=Other_EP_PP&utm_campaign=Q2_2017_EP_ProductPage",
+                    "children": []
+                },
+                {
+                    "path": "https://gsuite.google.com/?utm_source=google_products&utm_campaign=smb_apps&utm_medium=et",
+                    "children": []
+                },
+                {
+                    "path": "https://cloud.google.com/",
                     "children": []
                 },
                 {
@@ -1528,11 +1531,23 @@
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/retail/local-inventory-ads/",
+                    "path": "https://www.google.com/insights/consumersurveys/home",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/tagmanager/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/webdesigner/",
                     "children": []
                 },
                 {
                     "path": "https://www.google.com/webmasters/tools/home?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://biz.waze.com/",
                     "children": []
                 },
                 {
@@ -1544,11 +1559,19 @@
                     "children": []
                 },
                 {
-                    "path": "https://abc.xyz/investor/",
+                    "path": "https://instagram.com/google/",
                     "children": []
                 },
                 {
-                    "path": "https://careers.google.com/",
+                    "path": "https://twitter.com/google",
+                    "children": []
+                },
+                {
+                    "path": "https://www.linkedin.com/company/google",
+                    "children": []
+                },
+                {
+                    "path": "https://abc.xyz/investor/",
                     "children": []
                 },
                 {
@@ -1556,7 +1579,23 @@
                     "children": []
                 },
                 {
+                    "path": "https://www.thinkwithgoogle.com/",
+                    "children": []
+                },
+                {
                     "path": "https://www.blog.google/press/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/press/blog-social-directory.html",
+                    "children": []
+                },
+                {
+                    "path": "https://www.blog.google/press/",
+                    "children": []
+                },
+                {
+                    "path": "https://services.google.com/fb/forms/speakerrequest/",
                     "children": []
                 },
                 {
@@ -1564,11 +1603,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://www.google.org/our-work/crisis-response/",
+                    "path": "https://environment.google",
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/diversity/",
+                    "path": "https://www.google.org/our-work/crisis-response/",
                     "children": []
                 },
                 {
@@ -1577,10 +1616,6 @@
                 },
                 {
                     "path": "https://transparencyreport.google.com",
-                    "children": []
-                },
-                {
-                    "path": "https://support.google.com?hl=en",
                     "children": []
                 }
             ]
@@ -1597,11 +1632,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://maps.google.co.il/maps?hl=iw&tab=Tl",
+                    "path": "https://www.youtube.com/?gl=IL&tab=T1",
                     "children": []
                 },
                 {
-                    "path": "https://www.youtube.com/?gl=IL&tab=T1",
+                    "path": "https://news.google.co.il/nwshp?hl=iw&tab=Tn",
                     "children": []
                 },
                 {
@@ -1633,7 +1668,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://docs.google.com/document/?usp=docs_alc",
+                    "path": "https://www.google.co.il/intl/iw/options/",
                     "children": []
                 },
                 {
@@ -1661,7 +1696,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://google.com/+GoogleTranslate",
+                    "path": "http://www.google.co.il/url?rs=rssf&q=http://www.google.com/mobile/translate/",
+                    "children": []
+                },
+                {
+                    "path": "https://googletranslate.blogspot.com/",
                     "children": []
                 },
                 {
@@ -1686,10 +1725,6 @@
             "path": "https://photos.google.com/?tab=wq&pageId=none",
             "children": [
                 {
-                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Daboutpage",
-                    "children": []
-                },
-                {
                     "path": "http://itunes.apple.com/app/apple-store/id962194608?pt=9008&ct=landing&mt=8",
                     "children": []
                 },
@@ -1702,7 +1737,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Daboutpage",
+                    "path": "https://photos.google.com/login",
                     "children": []
                 },
                 {
@@ -1710,31 +1745,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Daboutpage",
-                    "children": []
-                },
-                {
-                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Daboutpage",
-                    "children": []
-                },
-                {
                     "path": "http://itunes.apple.com/app/apple-store/id962194608?pt=9008&ct=landing&mt=8",
-                    "children": []
-                },
-                {
-                    "path": "https://plus.google.com/+GooglePhotos/posts",
-                    "children": []
-                },
-                {
-                    "path": "https://twitter.com/googlephotos",
-                    "children": []
-                },
-                {
-                    "path": "http://itunes.apple.com/app/apple-store/id962194608?pt=9008&ct=landing&mt=8",
-                    "children": []
-                },
-                {
-                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Daboutpage",
                     "children": []
                 }
             ]
@@ -1743,7 +1754,11 @@
             "path": "https://docs.google.com/document/?usp=docs_alc",
             "children": [
                 {
-                    "path": "https://support.google.com/docs?hl=en&p=#topic=2811805",
+                    "path": "https://gsuite.google.com/features/?utm_source=docsforwork&utm_medium=et&utm_campaign=refresh&utm_content=header&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/document/?usp=mkt_docs",
                     "children": []
                 },
                 {
@@ -1751,27 +1766,27 @@
                     "children": []
                 },
                 {
+                    "path": "https://support.google.com/drive/?p=homescreen_redirect&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/document/?usp=mkt_docs",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&referrer=utm_source%3Ddocs_mkt%26utm_medium%3Dmobile_section%26utm_campaign%3Ddocs_mkt",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/apple-store/id842842640?pt=9008&ct=docs_mkt&mt=8",
+                    "children": []
+                },
+                {
                     "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en",
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/intl/en/policies/privacy/",
-                    "children": []
-                },
-                {
-                    "path": "http://googledocs.blogspot.com",
-                    "children": []
-                },
-                {
-                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en",
-                    "children": []
-                },
-                {
-                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&hl=en",
-                    "children": []
-                },
-                {
-                    "path": "https://itunes.apple.com/us/app/google-sheets/id842849113?mt=8",
+                    "path": "https://chrome.google.com/webstore/detail/avery-label-merge/onacejilpbdgdhhoijnggpjolbdajepo",
                     "children": []
                 },
                 {
@@ -1779,15 +1794,47 @@
                     "children": []
                 },
                 {
-                    "path": "https://docs.google.com/spreadsheets/create?addon_store",
+                    "path": "https://docs.google.com/document/?usp=mkt_docs",
                     "children": []
                 },
                 {
-                    "path": "https://support.google.com/docs?docs_site_home",
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&referrer=utm_source%3Ddocs_mkt%26utm_medium%3Dmobile_section%26utm_campaign%3Ddocs_mkt",
                     "children": []
                 },
                 {
-                    "path": "https://cloud.google.com/?hl=en",
+                    "path": "https://itunes.apple.com/app/apple-store/id842842640?pt=9008&ct=docs_mkt&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/intl/en/policies/terms/",
+                    "children": []
+                },
+                {
+                    "path": "http://googledocs.blogspot.com",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/channel/UC-VcHhNdm1soluxzo5Fm3fQ",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/us/app/google-sheets/id842849113?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/us/app/google-slides/id879478102?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/document/create?addon_store",
+                    "children": []
+                },
+                {
+                    "path": "https://docs.google.com/forms/create?addon_store",
                     "children": []
                 },
                 {
@@ -1808,6 +1855,14 @@
                     "children": []
                 },
                 {
+                    "path": "https://itunes.apple.com/app/google-search/id284815942?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
+                    "children": []
+                },
+                {
                     "path": "https://support.google.com/websearch?hl=en",
                     "children": []
                 },
@@ -1816,7 +1871,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/maps",
+                    "path": "https://itunes.apple.com/app/google-maps/id585027354?mt=8",
                     "children": []
                 },
                 {
@@ -1829,10 +1884,6 @@
                 },
                 {
                     "path": "https://support.google.com/maps?hl=en",
-                    "children": []
-                },
-                {
-                    "path": "https://translate.google.com/about",
                     "children": []
                 },
                 {
@@ -1860,7 +1911,27 @@
                     "children": []
                 },
                 {
+                    "path": "https://itunes.apple.com/app/chrome-web-browser-by-google/id535886823?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.android.chrome",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/chrome/browser/",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/chrome?hl=en",
+                    "children": []
+                },
+                {
                     "path": "https://www.youtube.com/yt/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.youtube.com/",
                     "children": []
                 },
                 {
@@ -1868,11 +1939,27 @@
                     "children": []
                 },
                 {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.youtube",
+                    "children": []
+                },
+                {
                     "path": "https://support.google.com/youtube?hl=en",
                     "children": []
                 },
                 {
+                    "path": "https://play.google.com/music?signup=1",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-play-music/id691797987?mt=8",
+                    "children": []
+                },
+                {
                     "path": "https://play.google.com/store/apps/details?id=com.google.android.music",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/magazine/google_cast_platform_story",
                     "children": []
                 },
                 {
@@ -1884,6 +1971,14 @@
                     "children": []
                 },
                 {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.videos",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-play-movies-tv/gdijeikdkaembjbdobgfkoidjkpbmlkd?hl=en",
+                    "children": []
+                },
+                {
                     "path": "https://support.google.com/googleplay/topic/2999726?hl=en",
                     "children": []
                 },
@@ -1892,7 +1987,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://store.google.com/config/pixel_2",
+                    "path": "https://store.google.com/us/category/home_entertainment",
                     "children": []
                 },
                 {
@@ -1912,7 +2007,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://madeby.google.com/wifi/",
+                    "path": "https://store.google.com/product/google_wifi",
                     "children": []
                 },
                 {
@@ -1929,6 +2024,14 @@
                 },
                 {
                     "path": "https://support.google.com/android?hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/wear/",
+                    "children": []
+                },
+                {
+                    "path": "https://store.google.com/category/android_wear",
                     "children": []
                 },
                 {
@@ -1960,6 +2063,10 @@
                     "children": []
                 },
                 {
+                    "path": "https://www.gmail.com/intl/en_us/mail/help/about.html",
+                    "children": []
+                },
+                {
                     "path": "https://gmail.com",
                     "children": []
                 },
@@ -1968,23 +2075,15 @@
                     "children": []
                 },
                 {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+                    "children": []
+                },
+                {
                     "path": "https://support.google.com/mail?hl=en",
                     "children": []
                 },
                 {
-                    "path": "https://allo.google.com",
-                    "children": []
-                },
-                {
-                    "path": "https://itunes.apple.com/app/id1096801294?pt=9008&ct=aboutSiteGoogle&mt=8",
-                    "children": []
-                },
-                {
                     "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.fireball&referrer=utm_source%3DaboutSiteGoogle%26utm_medium%3DGoogle_referral%26anid%3Dadmob",
-                    "children": []
-                },
-                {
-                    "path": "https://support.google.com/allo#topic=6376118?hl=en",
                     "children": []
                 },
                 {
@@ -2004,11 +2103,19 @@
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/+/learnmore/",
+                    "path": "https://plus.google.com",
                     "children": []
                 },
                 {
                     "path": "https://itunes.apple.com/app/google+/id447119634?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.plus",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google%2B/dlppkpafhbajpcmmoheippocdidnckmm",
                     "children": []
                 },
                 {
@@ -2020,11 +2127,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://photos.google.com",
+                    "path": "https://itunes.apple.com/app/google-photos-store-search/int/id962194608?mt=8",
                     "children": []
                 },
                 {
-                    "path": "https://itunes.apple.com/app/google-photos-store-search/int/id962194608?mt=8",
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source%3Dgoogleabout%26utm_medium%3Dweb",
                     "children": []
                 },
                 {
@@ -2032,7 +2139,23 @@
                     "children": []
                 },
                 {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.contacts",
+                    "children": []
+                },
+                {
+                    "path": "https://support.google.com/pixelphone/topic/6118711?hl=en",
+                    "children": []
+                },
+                {
                     "path": "https://www.google.com/calendar/about/",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/google-calendar/id909319292?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.calendar",
                     "children": []
                 },
                 {
@@ -2044,15 +2167,35 @@
                     "children": []
                 },
                 {
+                    "path": "https://www.google.com/keep/",
+                    "children": []
+                },
+                {
+                    "path": "https://keep.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/apple-store/id1029207872?pt=9008&ct=gabout_keep&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.keep&utm_source=gaboutpage&utm_medium=keepplaylink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
                     "path": "https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki",
                     "children": []
                 },
                 {
-                    "path": "https://support.google.com/keep?hl=en",
+                    "path": "https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout",
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout",
+                    "path": "https://docs.google.com/document/?usp=gabout_docs",
+                    "children": []
+                },
+                {
+                    "path": "https://itunes.apple.com/app/apple-store/id842842640?pt=9008&ct=gabout_docs&mt=8",
                     "children": []
                 },
                 {
@@ -2068,10 +2211,6 @@
                     "children": []
                 },
                 {
-                    "path": "https://itunes.apple.com/app/apple-store/id842849113?pt=9008&ct=gabout_sheets&mt=8",
-                    "children": []
-                },
-                {
                     "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&utm_source=gaboutpage&utm_medium=sheetsplaylink&utm_campaign=gabout",
                     "children": []
                 },
@@ -2080,7 +2219,19 @@
                     "children": []
                 },
                 {
+                    "path": "https://docs.google.com/presentation/?usp=gabout_slides",
+                    "children": []
+                },
+                {
                     "path": "https://itunes.apple.com/app/apple-store/id879478102?pt=9008&ct=gabout_slides&mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&utm_source=gaboutpage&utm_medium=slidesplaylink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://chrome.google.com/webstore/detail/google-slides/aapocclcgogkmnckokdopfmhonfmgoek",
                     "children": []
                 },
                 {
@@ -2088,7 +2239,19 @@
                     "children": []
                 },
                 {
+                    "path": "https://www.google.com/drive/",
+                    "children": []
+                },
+                {
+                    "path": "https://drive.google.com",
+                    "children": []
+                },
+                {
                     "path": "https://itunes.apple.com/app/google-drive-free-online-storage/id507874739?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs",
                     "children": []
                 },
                 {
@@ -2105,6 +2268,10 @@
                 },
                 {
                     "path": "https://itunes.apple.com/app/apple-store/id1037457231?mt=8",
+                    "children": []
+                },
+                {
+                    "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.adwords&referrer=utm_source%3Dabout-products-red-US%26utm_medium%3DaboutGoogle%26utm_campaign%3DEvergreen",
                     "children": []
                 },
                 {
@@ -2128,15 +2295,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://support.google.com/analytics?hl=en",
-                    "children": []
-                },
-                {
                     "path": "https://www.google.com/business/?gmbsrc=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&ppsrc=GMBB0&utm_campaign=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&utm_source=gmb&utm_medium=et",
                     "children": []
                 },
                 {
-                    "path": "https://business.google.com/add?service=plus&gmbsrc=ww-ww-et-gs-z-gmb-s-z-l~pro-getstart-u&ppsrc=GMBB0&utm_campaign=ww-ww-et-gs-z-gmb-s-z-l~pro-getstart-u&utm_source=gmb&utm_medium=et",
+                    "path": "https://itunes.apple.com/app/apple-store/id853371601?pt=9008&ct=googabout&mt=8",
                     "children": []
                 },
                 {
@@ -2145,6 +2308,10 @@
                 },
                 {
                     "path": "https://support.google.com/business?utm_source=products&amp;utm_medium=et&amp;utm_campaign=en-us&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.android.com/intl/en_us/auto/",
                     "children": []
                 },
                 {
@@ -2160,6 +2327,10 @@
                     "children": []
                 },
                 {
+                    "path": "https://www.android.com",
+                    "children": []
+                },
+                {
                     "path": "https://www.android.com/tablets/",
                     "children": []
                 },
@@ -2172,11 +2343,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/get/cardboard/",
+                    "path": "https://www.google.com/chrome/browser/",
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/chrome/browser/",
+                    "path": "https://chrome.google.com/webstore/category/apps",
                     "children": []
                 },
                 {
@@ -2188,7 +2359,15 @@
                     "children": []
                 },
                 {
+                    "path": "https://store.google.com/product/google_daydream_view",
+                    "children": []
+                },
+                {
                     "path": "https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/drive/",
                     "children": []
                 },
                 {
@@ -2204,15 +2383,19 @@
                     "children": []
                 },
                 {
-                    "path": "https://www.gmail.com/intl/en_us/mail/help/about.html",
-                    "children": []
-                },
-                {
                     "path": "https://www.google.com/alerts",
                     "children": []
                 },
                 {
+                    "path": "https://allo.google.com",
+                    "children": []
+                },
+                {
                     "path": "https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://classroom.google.com/",
                     "children": []
                 },
                 {
@@ -2224,7 +2407,19 @@
                     "children": []
                 },
                 {
+                    "path": "https://www.google.co.in/edu/expeditions/",
+                    "children": []
+                },
+                {
                     "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=en",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/fonts",
+                    "children": []
+                },
+                {
+                    "path": "https://groups.google.com",
                     "children": []
                 },
                 {
@@ -2233,10 +2428,6 @@
                 },
                 {
                     "path": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en",
-                    "children": []
-                },
-                {
-                    "path": "https://play.google.com/store/apps",
                     "children": []
                 },
                 {
@@ -2256,19 +2447,19 @@
                     "children": []
                 },
                 {
-                    "path": "https://store.google.com/",
-                    "children": []
-                },
-                {
                     "path": "https://madeby.google.com/wifi/",
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/+/learnmore/",
+                    "path": "https://www.google.com/edu/products/productivity-tools/",
                     "children": []
                 },
                 {
                     "path": "https://support.google.com/hangouts/answer/2944865",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.com/inbox/",
                     "children": []
                 },
                 {
@@ -2280,7 +2471,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://store.google.com/product/pixel_2",
+                    "path": "https://www.google.com/photos/about",
                     "children": []
                 },
                 {
@@ -2336,7 +2527,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://tv.youtube.com/?utm_source=gaboutpage&utm_medium=youtubetv&utm_campaign=gabout",
+                    "path": "https://gaming.youtube.com/",
                     "children": []
                 },
                 {
@@ -2348,15 +2539,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://adwords.google.com/home/?subid=ww-ww-et-g-aw-a-about_products_1-redlmo2!",
-                    "children": []
-                },
-                {
                     "path": "https://www.google.com/adwords/express/?subid=ww-ww-et-g-aw-a-about_products_4-redlmo2!&_ga=1.175583202.1324762552.1468947456",
-                    "children": []
-                },
-                {
-                    "path": "https://www.google.com/analytics",
                     "children": []
                 },
                 {
@@ -2364,7 +2547,23 @@
                     "children": []
                 },
                 {
+                    "path": "https://enterprise.google.com/chrome/",
+                    "children": []
+                },
+                {
+                    "path": "https://learndigital.withgoogle.com/digitalgarage?utm_source=Engagement&utm_medium=ep&utm_term=ep&utm_content=Other_EP_PP&utm_campaign=Q2_2017_EP_ProductPage",
+                    "children": []
+                },
+                {
+                    "path": "https://gsuite.google.com/?utm_source=google_products&utm_campaign=smb_apps&utm_medium=et",
+                    "children": []
+                },
+                {
                     "path": "https://cloud.google.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://domains.google.com/about/",
                     "children": []
                 },
                 {
@@ -2376,15 +2575,19 @@
                     "children": []
                 },
                 {
+                    "path": "https://www.google.com/retail/merchant-center/",
+                    "children": []
+                },
+                {
                     "path": "https://www.google.com/business/?gmbsrc=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&ppsrc=GMBB0&utm_campaign=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&utm_source=gmb&utm_medium=et",
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/retail/shopping-campaigns/",
+                    "path": "https://www.google.com/streetview/earn/",
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/trends/",
+                    "path": "https://www.google.com/insights/consumersurveys/home",
                     "children": []
                 },
                 {
@@ -2396,7 +2599,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://developers.google.com/products/?hl=en",
+                    "path": "https://www.google.com/webmasters/tools/home?hl=en",
                     "children": []
                 },
                 {
@@ -2405,6 +2608,10 @@
                 },
                 {
                     "path": "https://www.youtube.com/Google",
+                    "children": []
+                },
+                {
+                    "path": "https://twitter.com/google",
                     "children": []
                 },
                 {
@@ -2420,11 +2627,19 @@
                     "children": []
                 },
                 {
+                    "path": "https://careers.google.com/",
+                    "children": []
+                },
+                {
                     "path": "https://www.blog.google/",
                     "children": []
                 },
                 {
                     "path": "https://www.thinkwithgoogle.com/",
+                    "children": []
+                },
+                {
+                    "path": "https://www.blog.google/press/",
                     "children": []
                 },
                 {
@@ -2436,15 +2651,27 @@
                     "children": []
                 },
                 {
+                    "path": "https://services.google.com/fb/forms/speakerrequest/",
+                    "children": []
+                },
+                {
                     "path": "https://www.google.org",
                     "children": []
                 },
                 {
-                    "path": "https://www.google.com/diversity/",
+                    "path": "https://environment.google",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.org/our-work/crisis-response/",
                     "children": []
                 },
                 {
                     "path": "https://www.google.com/accessibility/",
+                    "children": []
+                },
+                {
+                    "path": "https://transparencyreport.google.com",
                     "children": []
                 },
                 {
@@ -2454,18 +2681,18 @@
             ]
         },
         {
-            "path": "https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=http://www.google.co.il/%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3DDnr5WZ7qDYjZ8Aeh8o4o",
+            "path": "https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=http://www.google.co.il/%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3Dy97-We-XCYvZ8Ae1456ICg",
             "children": [
                 {
-                    "path": "https://accounts.google.com/signin/usernamerecovery?continue=http%3A%2F%2Fwww.google.co.il%2F%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3DDnr5WZ7qDYjZ8Aeh8o4o&hl=iw",
+                    "path": "https://accounts.google.com/signin/usernamerecovery?continue=http%3A%2F%2Fwww.google.co.il%2F%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3Dy97-We-XCYvZ8Ae1456ICg&hl=iw",
                     "children": []
                 },
                 {
-                    "path": "https://accounts.google.com/AccountChooser?continue=http%3A%2F%2Fwww.google.co.il%2F%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3DDnr5WZ7qDYjZ8Aeh8o4o&hl=iw",
+                    "path": "https://accounts.google.com/AccountChooser?continue=http%3A%2F%2Fwww.google.co.il%2F%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3Dy97-We-XCYvZ8Ae1456ICg&hl=iw",
                     "children": []
                 },
                 {
-                    "path": "https://accounts.google.com/SignUp?continue=http%3A%2F%2Fwww.google.co.il%2F%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3DDnr5WZ7qDYjZ8Aeh8o4o&hl=iw",
+                    "path": "https://accounts.google.com/SignUp?continue=http%3A%2F%2Fwww.google.co.il%2F%3Fgfe_rd%3Dcr%26dcr%3D0%26ei%3Dy97-We-XCYvZ8Ae1456ICg&hl=iw",
                     "children": []
                 },
                 {
@@ -2522,11 +2749,11 @@
                     "children": []
                 },
                 {
-                    "path": "https://www.blogger.com/?tab=wj",
+                    "path": "https://photos.google.com/?tab=wq&pageId=none",
                     "children": []
                 },
                 {
-                    "path": "https://photos.google.com/?tab=wq&pageId=none",
+                    "path": "https://docs.google.com/document/?usp=docs_alc",
                     "children": []
                 },
                 {
@@ -2550,7 +2777,7 @@
                     "children": []
                 },
                 {
-                    "path": "https://accounts.google.com/ServiceLogin?service=safesearchlock&ltmpl=lk&hl=iw&continue=https://www.google.co.il/preferences/sslock%3Fhl%3Diw%26op%3D0%26prev%3D/preferences%253Fhl%253Diw%2526prev%253Dhttp://www.google.co.il/preferences%25253Fhl%25253Diw%26sig%3DAAm6Z9sAAAAAWfmBGerliUU4cVRwWxhCb5HVgu4YKMSZ",
+                    "path": "https://accounts.google.com/ServiceLogin?service=safesearchlock&ltmpl=lk&hl=iw&continue=https://www.google.co.il/preferences/sslock%3Fhl%3Diw%26op%3D0%26prev%3D/preferences%253Fhl%253Diw%2526prev%253Dhttp://www.google.co.il/preferences%25253Fhl%25253Diw%26sig%3DAAm6Z9sAAAAAWf7l1r8V5-5ep4DEOJWJeAG_e3ezl9ki",
                     "children": []
                 }
             ]
@@ -2580,10 +2807,6 @@
             "path": "http://www.google.co.il/intl/iw/services/",
             "children": [
                 {
-                    "path": "https://www.google.com/local/business/add?service=plus&gmbsrc=il-ww-et-gs-z-gmb-s-z-l~ser-ctrl-u&ppsrc=GMBLG&utm_campaign=il-ww-et-gs-z-gmb-s-z-l~ser-ctrl-u&utm_source=gmb&utm_medium=z&subid=il-ww-et-bizsol&hl=iw",
-                    "children": []
-                },
-                {
                     "path": "https://www.google.co.il/intl/iw/business/?gmbsrc=il-ww-et-gs-z-gmb-s-z-l~ser-ctrl-u&subid=il-ww-et-bizsol",
                     "children": []
                 },
@@ -2612,14 +2835,6 @@
                     "children": []
                 },
                 {
-                    "path": "https://apps.google.co.il/intx/iw/products/calendar/?utm_source=bizsol_worksmarter&utm_medium=et&utm_campaign=calendar_bizsol",
-                    "children": []
-                },
-                {
-                    "path": "https://apps.google.co.il/intx/iw/products/hangouts/?utm_source=bizsol_worksmarter&utm_medium=et&utm_campaign=hangouts_bizsol",
-                    "children": []
-                },
-                {
                     "path": "https://apps.google.co.il/intx/iw/products/drive/?utm_source=bizsol_worksmarter&utm_medium=et&utm_campaign=drive_bizsol",
                     "children": []
                 },
@@ -2645,6 +2860,10 @@
                 },
                 {
                     "path": "https://www.google.co.il/intl/iw/analytics/features/mobile-app-analytics.html?utm_source=Internal&utm_campaign=InPage&utm_medium=BusinessSolutions",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/business/?gmbsrc=il-ww-et-gs-z-gmb-s-z-l~ser-ctrl-u&subid=il-ww-et-bizsol",
                     "children": []
                 },
                 {
@@ -2692,6 +2911,10 @@
                     "children": []
                 },
                 {
+                    "path": "https://twitter.com/adwords",
+                    "children": []
+                },
+                {
                     "path": "https://www.youtube.com/yt/advertise/",
                     "children": []
                 },
@@ -2709,6 +2932,10 @@
                 },
                 {
                     "path": "https://developers.google.com/?hl=iw",
+                    "children": []
+                },
+                {
+                    "path": "https://www.google.co.il/intl/iw/streetview/hire",
                     "children": []
                 },
                 {
@@ -2730,7 +2957,7 @@
             ]
         },
         {
-            "path": "http://www.google.co.il/setprefdomain?prefdom=US&sig=__4G4AlmGY2iR6n3ctw8-TvMJrNOk%3D",
+            "path": "http://www.google.co.il/setprefdomain?prefdom=US&sig=__uEl4YqJwwJQMWlEhFbWJpBX4cMo%3D",
             "children": [
                 {
                     "path": "https://www.google.co.il/webhp?tab=ww",
@@ -2741,11 +2968,7 @@
                     "children": []
                 },
                 {
-                    "path": "http://maps.google.co.il/maps?hl=iw&tab=wl",
-                    "children": []
-                },
-                {
-                    "path": "http://news.google.co.il/nwshp?hl=iw&tab=wn",
+                    "path": "http://www.youtube.com/?gl=IL&tab=w1",
                     "children": []
                 },
                 {
@@ -2765,11 +2988,7 @@
                     "children": []
                 },
                 {
-                    "path": "http://www.blogger.com/?tab=wj",
-                    "children": []
-                },
-                {
-                    "path": "https://docs.google.com/document/?usp=docs_alc",
+                    "path": "https://photos.google.com/?tab=wq&pageId=none",
                     "children": []
                 },
                 {
@@ -2785,15 +3004,11 @@
                     "children": []
                 },
                 {
-                    "path": "http://www.google.co.il/history/optout?hl=iw",
-                    "children": []
-                },
-                {
                     "path": "http://www.google.co.il/intl/iw/services/",
                     "children": []
                 },
                 {
-                    "path": "http://www.google.co.il/setprefdomain?prefdom=US&sig=__qAsXDeKPpDJ8UwHARyP30Ljk_Lc%3D",
+                    "path": "http://www.google.co.il/setprefdomain?prefdom=US&sig=__3frNlSwkaKItzWeKFVhy2L6A7co%3D",
                     "children": []
                 }
             ]

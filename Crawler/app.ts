@@ -17,9 +17,7 @@ var app = express();
 export class Url {
     path: string;
     children: Array<Url>;
-    isFinished: boolean;
-    wantedChildrenAmount: number;
-    childrenToRemove: Array<Url>;
+    
 
     constructor(url: string) {
         this.path = url;
@@ -155,7 +153,7 @@ export class Crawler {
         return new Promise((resolve, reject) => {
             let crawler: Crawler = new Crawler();
             let mainUrl: Url = new Url(url);
-            crawler.constructTree(mainUrl, layers).catch(e => e).then(() => {
+            crawler.constructTree(mainUrl, layers).catch(e => console.log(e)).then(() => {
                 this.writeUrlToJson(mainUrl, path);
                 resolve(url);
             });
